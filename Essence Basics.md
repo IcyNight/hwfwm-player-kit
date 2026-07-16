@@ -14,28 +14,28 @@ Essence powers use Essence Points. Confluence powers are separate.
 - Using an essence power costs 1 Essence Point.
 - Spent Essence Points reset to maximum after a long rest.
 
-## Known Bronze-Rank Essence Effects
+## Known Bronze-Rank Essence Powers
 
-| Essence | Bronze-Rank Effect |
-|---|---|
-| Apocalypse | As an action, project an intimidating aura in a 15-foot radius. Creatures within the aura must make a Wisdom saving throw or become frightened. Creatures that succeed are immune to this effect for 24 hours. |
-| Blood | On hitting an enemy, spend a reaction to apply the Bleeding effect. Bleeding deals 1d4 damage at the start of each of the target's turns. This effect does not stack; reapplying it refreshes the effect. |
-| Dark | As a bonus action, empower your next successful hit. The target must make a Constitution saving throw. On a failure, the target is blinded until the end of its next turn. |
-| Doom | As a reaction, impose disadvantage on an enemy's next saving throw. |
-| Fire | Use a reaction to halve incoming fire damage. |
-| Glory | Gain 5 temporary hit points when killing a creature. |
-| Knowledge | As an action, cast the `comprehend languages` spell without costs. |
-| Life | Grant an ally within line of sight advantage on their next death saving throw. |
-| Magic | As a bonus action, gain 1 use of Metamagic. |
-| Metal | As a bonus action, gain +1 AC until the start of your next turn. |
-| Might | Gain advantage on a grapple check or an Athletics check. |
-| Noble | Gain advantage on a Charisma check. |
-| Resolve | Gain advantage on your next saving throw. |
-| Restoration | Heal an ally for 5 HP or repair a Small or Medium object. |
-| Rune | Cast a known or prepared level 1 ritual spell as a ritual. |
-| Shield | As a reaction, take a hit intended for an ally within 5 feet. If your AC exceeds the attack roll, negate all damage and on-hit effects. Otherwise, become the target and suffer the attack normally. |
-| Sun | As an action, illuminate a 10-foot radius for 1 minute; reveal hidden traps; reveal hidden creatures; invisible creatures lose the benefits of invisibility; traps are outlined by golden light. |
-| Trap | As a bonus action after neutralizing a trap, take it and reuse it later. |
+| Essence | Bronze-Rank Power | Cost | Action Cost | Effect |
+|---|---|---:|---|---|
+| Apocalypse | Intimidating Aura | 1 Essence Point | Action | Project a 15-foot intimidating aura. Creatures in the aura must make a Wisdom saving throw or become frightened. Creatures that succeed are immune to this effect for 24 hours. |
+| Blood | Bloody Strike | 1 Essence Point | Reaction | On hitting an enemy, apply Bleeding. Bleeding deals 1d4 damage at the start of each of the target's turns. This effect does not stack; reapplying it refreshes the effect. |
+| Dark | Dark Strike | 1 Essence Point | Bonus Action | Empower your next successful hit. The target must make a Constitution saving throw. On a failure, the target is blinded until the end of its next turn. |
+| Doom | Doomed Fate | 1 Essence Point | Reaction | Impose disadvantage on an enemy's next saving throw. |
+| Fire | Fire Resistance | 1 Essence Point | Reaction | Halve incoming fire damage. |
+| Glory | Glory Kill | 1 Essence Point | Reaction | Gain 5 temporary hit points when killing a creature. |
+| Knowledge | Polyglot | 1 Essence Point | Action | Cast the `comprehend languages` spell without material costs. |
+| Life | Spark of Life | 1 Essence Point | Reaction | Grant an ally within line of sight advantage on their next death saving throw. |
+| Magic | Metamagic | 1 Essence Point | Bonus Action | Gain 1 use of Metamagic. |
+| Metal | Metallic Skin | 1 Essence Point | Bonus Action | Gain +1 AC until the start of your next turn. |
+| Might | Mighty | 1 Essence Point | Reaction | Gain advantage on a grapple check or an Athletics check. |
+| Noble | Noble's Charm | 1 Essence Point | Bonus Action | Gain advantage on a Charisma check. |
+| Resolve | Unwavering Resolve | 1 Essence Point | Reaction | Gain advantage on your next saving throw. |
+| Restoration | Restore Form | 1 Essence Point | Bonus Action | Heal an ally for 5 HP or repair a Small or Medium object. |
+| Rune | Ritual Adapt | 1 Essence Point | None | Cast a known or prepared level 1 ritual spell as a ritual. |
+| Shield | Human Shield | 1 Essence Point | Reaction | Take a hit intended for an ally within 5 feet. If your AC exceeds the attack roll, negate all damage and on-hit effects. Otherwise, become the target and suffer the attack normally. |
+| Sun | Bright Sun | 1 Essence Point | Action | Illuminate a 10-foot radius, reveal hidden traps and hidden creatures, remove invisibility benefits, and outline traps in golden light. This effect lasts for 1 minute. |
+| Trap | Reusable Trap | 1 Essence Point | Bonus Action | After neutralizing a trap, take it and reuse it later. |
 
 ## Known Confluences
 
