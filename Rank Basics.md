@@ -48,9 +48,3 @@ Each main rank covers four D&D levels.
 ## Known Rank Milestone
 
 - Awakening a confluence causes an Iron ranker to rank up to Bronze.
-
-## Currently Known Stat Cap
-
-At Normal through Bronze rank, a character's natural maximum for a D&D stat is 20.
-
-Higher-rank stat cap changes are not included here yet.
