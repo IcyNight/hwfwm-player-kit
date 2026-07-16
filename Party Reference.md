@@ -195,6 +195,34 @@ A semi-reliable looting power. You are able to loot dead creatures of your rank 
 - The higher the total, the greater the chance of obtaining magical loot.
 - The Will of the creature is decided by the DM and adds a number to the player's 1d100 roll for loot.
 
+##### Loot Resolution
+
+After successfully using Shadows Greed on a dead creature of your rank or higher:
+
+1. Roll 1d100.
+2. The DM adds a Will Modifier based on the creature's will in life.
+3. Compare the final total to the table below.
+
+| Total | Reward |
+|---|---|
+| 1 | Nothing. The creature's magical essence dissipates before it can be harvested. |
+| 2-25 | Gain one Common item worth up to 5 gp appropriate to the creature. |
+| 26-50 | Gain one Uncommon item worth 10-30 gp appropriate to the creature. |
+| 51-75 | Gain one Superior Uncommon item worth 30-60 gp appropriate to the creature. |
+| 76-99 | Gain one Rare item worth up to 150 gp appropriate to the creature. |
+| 100+ | Gain one Monster Core of the same rank as the defeated creature and one Superior Uncommon item worth up to 60 gp, both appropriate to that creature. |
+
+##### Design Rules
+
+When determining loot, follow these rules:
+
+- Loot should always match the creature it came from.
+- Magical items should feel like a lingering manifestation of the creature's nature rather than generic treasure.
+- Monster cores are only obtained on a result of 100 or higher after applying the creature's Will Modifier.
+- Common, Uncommon, Superior Uncommon, and Rare rewards should be selected from creature-specific loot tables.
+- The same creature should never produce loot that feels unrelated to its abilities, physiology, or magical aspect.
+- This system is intended to blend D&D magic items with He Who Fights With Monsters magical materials and crafting components, allowing both styles of rewards depending on the creature.
+
 ## Companion Confluences
 
 | Character | Confluence | Essences |
