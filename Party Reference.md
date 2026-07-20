@@ -8,25 +8,34 @@ Current Rank: Low Bronze.
 
 ## Members
 
-- Player 1
-- Player 2
-- Player 3
-- Player 4
+- Niles
+- Steve
+- Brokk Runehammer
+- Shavi
 - Neil Davone
 - Thadwick Mercer
+
+## Player Characters
+
+| Character | Race | Class | Current Level | Rank |
+|---|---|---|---:|---|
+| Niles | Traveler | Clockwork Soul Sorcerer | 5 | Low Bronze |
+| Steve | Human | Oath of Devotion Paladin | 5 | Low Bronze |
+| Brokk Runehammer | Runic | Rune Knight Fighter | 5 | Low Bronze |
+| Shavi | Traveler | Swashbuckler Rogue | 5 | Low Bronze |
 
 ## Player Confluences
 
 | Character | Confluence | Essences |
 |---|---|---|
-| Player 1 | Catalyst | Knowledge + Magic + Restoration |
-| Player 2 | Nova | Doom + Sun + Apocalypse |
-| Player 3 | Astral Forge | Fire + Metal + Rune |
-| Player 4 | Twilight | Blood + Trap + Dark |
+| Niles | Catalyst | Knowledge + Magic + Restoration |
+| Steve | Nova | Doom + Sun + Apocalypse |
+| Brokk Runehammer | Astral Forge | Fire + Metal + Rune |
+| Shavi | Twilight | Blood + Trap + Dark |
 
 ## Known Player Confluence Powers
 
-### Player 1: Catalyst
+### Niles: Catalyst
 
 #### Catalytic Domain
 
@@ -63,7 +72,7 @@ Magic has a much harder time going wild or destabilizing around you. Rituals, sp
 
 Exception: if you become involved in an ongoing magical transformation, your presence can alter the process itself.
 
-### Player 2: Nova
+### Steve: Nova
 
 #### Solar Aegis
 
@@ -100,7 +109,7 @@ The user can instinctively sense malicious intent from creatures of a lower rank
 - Works only against creatures of a lower rank.
 - A skilled higher-ranked individual can conceal hostile intent.
 
-### Player 3: Astral Forge
+### Brokk Runehammer: Astral Forge
 
 #### Astral Forge
 
@@ -138,7 +147,7 @@ If you miss an attack after reaching at least 3 consecutive successful hits:
 - Transcended Damage ignores resistance and immunity.
 - The effect then ends.
 
-### Player 4: Twilight
+### Shavi: Twilight
 
 #### Shadow Harvest
 

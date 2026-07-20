@@ -14,7 +14,7 @@ The Magic Association is connected to magic research, regulation, and the Church
 
 Players may know it as an authority on magical study, magical law, magical theory, enchanting, alchemy, and dangerous magical incidents.
 
-Player 1 joined the Magic Association during Sessions 01-02.
+Niles joined the Magic Association during Sessions 01-02.
 
 ## Churches
 
