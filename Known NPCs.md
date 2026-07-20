@@ -32,8 +32,11 @@ They have not meaningfully interacted with her yet.
 | Field | Known Information |
 |---|---|
 | Status | Saved by the party |
+| Current Protection | Church of Light |
 
 The party saved Ron during Sessions 01-02.
+
+Ron had been stealing monster parts with Don because they had no other choice if they wanted to keep Ron's powers from ramping.
 
 Further details should only be added here once the party learns them in play.
 
@@ -42,8 +45,11 @@ Further details should only be added here once the party learns them in play.
 | Field | Known Information |
 |---|---|
 | Status | Saved by the party |
+| Current Protection | Church of Light |
 
 The party saved Don during Sessions 01-02.
+
+Don was helping Ron steal monster parts because they had no other choice if they wanted to keep Ron's powers from ramping.
 
 Further details should only be added here once the party learns them in play.
 

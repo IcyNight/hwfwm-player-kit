@@ -4,19 +4,35 @@ This file summarizes events the players know about.
 
 It should be written from the party's perspective and avoid DM-only context.
 
-## Before the Monster Anomaly
+## Sessions 01-02
 
-Everything before the Monster anomaly was not recorded properly.
+Player 2 and Player 3 went to the Adventurers Association and overheard Esbeth Shivon and Clive Standish discussing assignments for the monster wave.
 
-Those events are up to the players to remember.
+The monster wave began, and Player 2 and Player 3 went to their assigned location. On the way, they met Player 1 and Player 4.
 
-The party met Beth Geller during Session 01.
+The party fought the Murloc King and failed to save the farmer who had previously taken Player 4 in before Player 4 was caught stealing from him.
 
-## Monster Anomaly Fight
+The party met Keith Geller, who was stationed nearby in case the Iron Rank adventurers in the area needed help.
 
-The party fought a Monster anomaly.
+The party was healed by Beth Geller and went to receive their rewards from the Adventurers Association.
 
-This event is part of what led to the party's advancement and recognition.
+Each player received their third essence as a reward and formed their confluence as a result.
+
+Player 3 chose to absorb his essence in a different room from the rest of the party and accidentally barged into a room where Thadwick Mercer had just finished forming his confluence. Thadwick stormed out angry at Player 3.
+
+Later, the party went to a local adventurers bar, where they met Thadwick again and also met Neil Davone. After some conversation, Neil and Thadwick joined the party.
+
+The city guards gave the party a quest to find the thieves who stole monster parts from their warehouse.
+
+After tracking the thieves to the sewers under the Scholars' Quarter, the party discovered that the thieves were Ron and Don. Ron and Don had stolen the monster parts because they had no choice if they wanted to keep Ron's powers from ramping.
+
+The party brought Ron and Don to Bi Di and the Church of Light. Father Tobias Crowe signed official papers placing Ron and Don under Church of Light protection.
+
+The party received their reward from the quest.
+
+Player 1 joined the Magic Association.
+
+Player 1 let it slip near Thadwick that he is a Traveler. Thadwick left to clear his head, and Neil followed him.
 
 ## Bronze Rank Advancement
 
