@@ -6,27 +6,28 @@ const documents = [
   { id: "npcs", title: "Known NPCs", note: "People met", path: "Known NPCs.md" },
   { id: "orgs", title: "Known Organizations", note: "Groups", path: "Known Organizations.md" },
   { id: "events", title: "Known Events", note: "Timeline", path: "Known Events.md" },
-  { id: "portraits", title: "NPC Pictures", note: "Portrait gallery", pictures: true },
 ];
 
-const portraits = [
-  "Beth Geller.png",
-  "Clive Standish.png",
-  "Don.png",
-  "Esbeth Shivon.png",
-  "Keith Geller.jpeg",
-  "Ron.png",
-];
+const portraits = new Map([
+  ["Beth Geller", "Beth Geller.png"],
+  ["Clive Standish", "Clive Standish.png"],
+  ["Don", "Don.png"],
+  ["Esbeth Shivon", "Esbeth Shivon.png"],
+  ["Keith Geller", "Keith Geller.jpeg"],
+  ["Ron", "Ron.png"],
+]);
 
 const state = {
   activeId: "readme",
   cache: new Map(),
+  theme: "light",
 };
 
 const nav = document.querySelector("#doc-nav");
 const reader = document.querySelector("#reader");
 const search = document.querySelector("#site-search");
 const searchResults = document.querySelector("#search-results");
+const themeToggle = document.querySelector("#theme-toggle");
 
 function encodePath(path) {
   return path.split("/").map(encodeURIComponent).join("/");
@@ -72,18 +73,14 @@ async function loadMarkdown(doc) {
 
 async function renderActive() {
   const doc = getDocument(state.activeId);
+  state.activeId = doc.id;
   setActiveButton();
-
-  if (doc.pictures) {
-    reader.innerHTML = renderPortraits();
-    return;
-  }
 
   reader.innerHTML = `<p class="empty-state">Loading ${escapeHtml(doc.title)}...</p>`;
 
   try {
     const markdown = await loadMarkdown(doc);
-    reader.innerHTML = renderMarkdown(markdown);
+    reader.innerHTML = doc.id === "npcs" ? renderKnownNpcs(markdown) : renderMarkdown(markdown);
   } catch (error) {
     reader.innerHTML = `<p class="empty-state">${escapeHtml(error.message)}</p>`;
   }
@@ -93,23 +90,6 @@ function navigate(id) {
   state.activeId = id;
   window.location.hash = id;
   renderActive();
-}
-
-function renderPortraits() {
-  const cards = portraits.map((file) => {
-    const name = file.replace(/\.(png|jpe?g|webp)$/i, "");
-    return `
-      <figure class="portrait-card">
-        <img src="${encodePath(`NPC Pictures/${file}`)}" alt="${escapeHtml(name)}">
-        <strong>${escapeHtml(name)}</strong>
-      </figure>
-    `;
-  }).join("");
-
-  return `
-    <h1>NPC Pictures</h1>
-    <div class="portrait-grid">${cards}</div>
-  `;
 }
 
 function renderMarkdown(markdown) {
@@ -239,6 +219,57 @@ function renderMarkdown(markdown) {
   return html.join("");
 }
 
+function renderKnownNpcs(markdown) {
+  const normalized = markdown.replace(/\r\n/g, "\n");
+  const titleMatch = normalized.match(/^#\s+(.+)$/m);
+  const title = titleMatch ? titleMatch[1] : "Known NPCs";
+  const beforeFirstNpc = normalized.split(/^##\s+/m)[0].replace(/^#\s+.+$/m, "").trim();
+  const sections = normalized.match(/^##\s+[\s\S]*?(?=^##\s+|\s*$)/gm) || [];
+
+  const intro = beforeFirstNpc ? renderMarkdown(beforeFirstNpc) : "";
+  const cards = [];
+  const extras = [];
+
+  for (const section of sections) {
+    const heading = section.match(/^##\s+(.+)$/m);
+    if (!heading) continue;
+
+    const name = heading[1].trim();
+    const body = section.replace(/^##\s+.+\n?/, "").trim();
+    const content = renderMarkdown(body);
+    const file = portraits.get(name);
+    const image = file ? `
+      <img class="npc-portrait" src="${encodePath(`NPC Pictures/${file}`)}" alt="${escapeHtml(name)}">
+    ` : "";
+
+    if (file || !name.toLowerCase().startsWith("ask the dm")) {
+      cards.push(`
+        <section class="npc-card${file ? "" : " no-portrait"}">
+          ${image}
+          <div class="npc-details">
+            <h2>${escapeHtml(name)}</h2>
+            ${content}
+          </div>
+        </section>
+      `);
+    } else {
+      extras.push(`
+        <section class="reader-section">
+          <h2>${escapeHtml(name)}</h2>
+          ${content}
+        </section>
+      `);
+    }
+  }
+
+  return `
+    <h1>${escapeHtml(title)}</h1>
+    ${intro}
+    <div class="npc-list">${cards.join("")}</div>
+    ${extras.join("")}
+  `;
+}
+
 function inlineMarkdown(text) {
   return escapeHtml(text)
     .replace(/`([^`]+)`/g, "<code>$1</code>")
@@ -276,7 +307,7 @@ async function runSearch(query) {
     return;
   }
 
-  const searchable = documents.filter((doc) => !doc.pictures);
+  const searchable = documents;
   const loaded = await Promise.all(searchable.map(async (doc) => ({ doc, text: await loadMarkdown(doc) })));
   const matches = loaded
     .filter(({ text }) => text.toLowerCase().includes(trimmed.toLowerCase()))
@@ -314,6 +345,30 @@ window.addEventListener("hashchange", () => {
   }
 });
 
+function applyTheme(theme) {
+  const nextTheme = theme === "dark" ? "dark" : "light";
+  state.theme = nextTheme;
+  document.documentElement.dataset.theme = nextTheme;
+  localStorage.setItem("player-kit-theme", nextTheme);
+
+  const isDark = nextTheme === "dark";
+  themeToggle.setAttribute("aria-pressed", String(isDark));
+  themeToggle.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+  themeToggle.querySelector(".theme-icon").textContent = isDark ? "☀" : "☾";
+  themeToggle.querySelector(".theme-label").textContent = isDark ? "Light" : "Dark";
+}
+
+function initializeTheme() {
+  const savedTheme = localStorage.getItem("player-kit-theme");
+  const preferredTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  applyTheme(savedTheme || preferredTheme);
+}
+
+themeToggle.addEventListener("click", () => {
+  applyTheme(state.theme === "dark" ? "light" : "dark");
+});
+
+initializeTheme();
 buildNav();
 state.activeId = window.location.hash.replace("#", "") || "readme";
 renderActive();
