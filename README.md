@@ -6,6 +6,8 @@ This folder contains player-safe campaign information.
 
 It is meant for players in the campaign, not for the DM's private planning notes.
 
+The interactive player reference site is served by `index.html` when this kit is published through GitHub Pages.
+
 ## Player-Safe Rule
 
 If the party does not know it, it should not go here.

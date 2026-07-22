@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>HWFWM Player Kit</title>
+    <meta name="description" content="Player-safe campaign reference for the HWFWM-inspired D&D campaign.">
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Player Campaign Kit</p>
+          <h1>HWFWM D&D Reference</h1>
+        </div>
+        <label class="search-wrap" for="site-search">
+          <span>Search</span>
+          <input id="site-search" type="search" placeholder="NPCs, essences, events..." autocomplete="off">
+        </label>
+      </header>
+
+      <aside class="sidebar" aria-label="Player kit sections">
+        <nav id="doc-nav" class="doc-nav"></nav>
+      </aside>
+
+      <main class="content">
+        <section id="search-results" class="search-results" hidden></section>
+        <article id="reader" class="reader" aria-live="polite"></article>
+      </main>
+    </div>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
