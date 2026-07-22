@@ -26,6 +26,8 @@ The city guards gave the party a quest to find the thieves who stole monster par
 
 After tracking the thieves to the sewers under the Scholars' Quarter, the party discovered that the thieves were Ron and Don. Ron and Don had stolen the monster parts because they had no choice if they wanted to keep Ron's powers from ramping.
 
+Ron and Don told the party about the struggle of living with banned essences and banned confluences. The party knows Ron has Hunger + Death + Mimic and the Chimera confluence, and that Don has Grave + Plague + Slime and the Ooze confluence.
+
 The party brought Ron and Don to Bi Di and the Church of Light. Father Tobias Crowe signed official papers placing Ron and Don under Church of Light protection.
 
 The party received their reward from the quest.

@@ -43,8 +43,10 @@ Essence powers use Essence Points. Confluence powers are separate.
 |---|---|---|
 | Astral Forge | Fire + Metal + Rune | Magical forging, runes, metal, fire, and crafting. |
 | Catalyst | Knowledge + Magic + Restoration | Magical change, study, repair, and transformation. |
+| Chimera | Hunger + Death + Mimic | Restricted confluence known through Ron. |
 | Fortress | Life + Shield + Might | Protection, endurance, defense, and strength. |
 | Nova | Doom + Sun + Apocalypse | Radiance, destruction, judgment, and catastrophic power. |
+| Ooze | Grave + Plague + Slime | Restricted confluence known through Don. |
 | Twilight | Blood + Trap + Dark | Blood, traps, darkness, and hidden danger. |
 | Typhoon | Might + Vigor + Storm | Strength, vitality, wind, storm, and physical force. |
 | Warden | Noble + Glory + Resolve | Duty, heroic presence, command, and resolve. |
