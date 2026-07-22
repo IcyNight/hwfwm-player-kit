@@ -1,5 +1,4 @@
 const documents = [
-  { id: "readme", title: "Overview", note: "Reading order", path: "README.md" },
   { id: "rank", title: "Rank Basics", note: "Known ranks", path: "Rank Basics.md" },
   { id: "essence", title: "Essence Basics", note: "Known powers", path: "Essence Basics.md" },
   { id: "party", title: "Party Reference", note: "Team details", path: "Party Reference.md" },
@@ -18,7 +17,7 @@ const portraits = new Map([
 ]);
 
 const state = {
-  activeId: "readme",
+  activeId: "rank",
   cache: new Map(),
   theme: "light",
 };
@@ -223,19 +222,14 @@ function renderKnownNpcs(markdown) {
   const normalized = markdown.replace(/\r\n/g, "\n");
   const titleMatch = normalized.match(/^#\s+(.+)$/m);
   const title = titleMatch ? titleMatch[1] : "Known NPCs";
-  const beforeFirstNpc = normalized.split(/^##\s+/m)[0].replace(/^#\s+.+$/m, "").trim();
-  const sections = normalized.match(/^##\s+[\s\S]*?(?=^##\s+|\s*$)/gm) || [];
+  const parsed = splitNpcSections(normalized);
 
-  const intro = beforeFirstNpc ? renderMarkdown(beforeFirstNpc) : "";
+  const intro = parsed.intro ? renderMarkdown(parsed.intro) : "";
   const cards = [];
   const extras = [];
 
-  for (const section of sections) {
-    const heading = section.match(/^##\s+(.+)$/m);
-    if (!heading) continue;
-
-    const name = heading[1].trim();
-    const body = section.replace(/^##\s+.+\n?/, "").trim();
+  for (const section of parsed.sections) {
+    const { name, body } = section;
     const content = renderMarkdown(body);
     const file = portraits.get(name);
     const image = file ? `
@@ -268,6 +262,39 @@ function renderKnownNpcs(markdown) {
     <div class="npc-list">${cards.join("")}</div>
     ${extras.join("")}
   `;
+}
+
+function splitNpcSections(markdown) {
+  const lines = markdown.split("\n");
+  const intro = [];
+  const sections = [];
+  let current = null;
+
+  for (const line of lines) {
+    const heading = line.match(/^##\s+(.+)$/);
+
+    if (heading) {
+      if (current) sections.push(current);
+      current = { name: heading[1].trim(), lines: [] };
+      continue;
+    }
+
+    if (current) {
+      current.lines.push(line);
+    } else if (!line.match(/^#\s+/)) {
+      intro.push(line);
+    }
+  }
+
+  if (current) sections.push(current);
+
+  return {
+    intro: intro.join("\n").trim(),
+    sections: sections.map((section) => ({
+      name: section.name,
+      body: section.lines.join("\n").trim(),
+    })),
+  };
 }
 
 function inlineMarkdown(text) {
@@ -354,7 +381,7 @@ function applyTheme(theme) {
   const isDark = nextTheme === "dark";
   themeToggle.setAttribute("aria-pressed", String(isDark));
   themeToggle.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
-  themeToggle.querySelector(".theme-icon").textContent = isDark ? "☀" : "☾";
+  themeToggle.querySelector(".theme-icon").textContent = isDark ? "L" : "D";
   themeToggle.querySelector(".theme-label").textContent = isDark ? "Light" : "Dark";
 }
 
@@ -370,5 +397,5 @@ themeToggle.addEventListener("click", () => {
 
 initializeTheme();
 buildNav();
-state.activeId = window.location.hash.replace("#", "") || "readme";
+state.activeId = window.location.hash.replace("#", "") || "rank";
 renderActive();
