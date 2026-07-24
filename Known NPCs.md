@@ -99,10 +99,13 @@ Thadwick is a member of the players' team. His confluence theme is noble duty, h
 | Field | Known Information |
 |---|---|
 | Team | Players Team |
+| Race | Elf |
 | Confluence | Fortress |
 | Essences | Life + Shield + Might |
 
 Neil is a member of the players' team. His confluence is defensive, protective, and endurance-focused.
+
+Neil is an Elf built like a Human strongman. The running joke is that as Neil ranks up, he will slowly look more like a buff Elf than a Human strongman.
 
 ## Ask the DM Before Adding
 

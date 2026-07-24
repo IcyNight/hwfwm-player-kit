@@ -239,6 +239,8 @@ When determining loot, follow these rules:
 | Neil Davone | Fortress | Life + Shield + Might |
 | Thadwick Mercer | Warden | Noble + Glory + Resolve |
 
+Neil Davone is an Elf built like a Human strongman.
+
 ## Known Companion Confluence Powers
 
 ### Neil Davone: Fortress

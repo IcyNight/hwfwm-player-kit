@@ -13,6 +13,7 @@ const portraits = new Map([
   ["Don", "Don.png"],
   ["Esbeth Shivon", "Esbeth Shivon.png"],
   ["Keith Geller", "Keith Geller.jpeg"],
+  ["Neil Davone", "Neil Davone.png"],
   ["Ron", "Ron.png"],
   ["Thadwick Mercer", "Thadwick Mercer.png"],
 ]);
