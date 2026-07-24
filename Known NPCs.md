@@ -105,7 +105,7 @@ Thadwick is a member of the players' team. His confluence theme is noble duty, h
 
 Neil is a member of the players' team. His confluence is defensive, protective, and endurance-focused.
 
-Neil is an Elf built like a Human strongman. The running joke is that as Neil ranks up, he will slowly look more like a buff Elf than a Human strongman.
+Neil is an Elf built like a Human strongman.
 
 ## Ask the DM Before Adding
 
