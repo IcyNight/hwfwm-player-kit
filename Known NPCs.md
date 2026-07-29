@@ -25,7 +25,18 @@ His confluence is not listed here because the party does not know it.
 
 The party has seen Esbeth Shivon.
 
-They have not meaningfully interacted with her yet.
+During Session 03, Esbeth interviewed the party individually using a Circle of Truth procedure. She was professional, perceptive, and careful about consent.
+
+## Bi Di ("Big D")
+
+| Field | Known Information |
+|---|---|
+| Organization | Church of Light |
+| Rank | Bronze |
+
+Bi Di lives on top of the Church of Light.
+
+During Session 03, Bi Di reached Bronze rank. He became noticeably more intelligent and began showing more human behavior.
 
 ## Ron
 
@@ -93,6 +104,8 @@ Keith told the party that Beth Geller is his mother.
 | Confluence | Warden |
 
 Thadwick is a member of the players' team. His confluence theme is noble duty, heroic presence, and unbreakable resolve.
+
+During Session 03, Thadwick spoke privately with Niles and began accepting that Niles is not his enemy.
 
 ## Neil Davone
 

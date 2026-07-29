@@ -36,6 +36,28 @@ Niles joined the Magic Association.
 
 Niles let it slip near Thadwick that he is a Traveler. Thadwick left to clear his head, and Neil followed him.
 
+## Session 03
+
+Steve woke up before the others and performed a rooster crow from the roof of the Church of Light, waking everyone up.
+
+Bi Di woke up having reached Bronze rank. He seemed noticeably more intelligent and showed more human behavior than before.
+
+Niles and Thadwick spoke privately outside the Church of Light. Thadwick came away understanding that Niles is not his enemy and that the party may be able to help him work through his hatred of Travelers.
+
+Shavi was effectively out of it for the session after taking drugs the night before. He followed the group around and was only actively used when the party needed his looting power or help gathering resources during travel.
+
+The party went through Esbeth Shivon's individual interviews at the Adventurers Association. Everyone chose to sit within the Circle of Truth. Steve lied once because he was embarrassed about being hit by friendly fire during the field test, then confessed.
+
+The Association briefing covered the abnormal Bronze Boar, the Murloc King that did not explode on death, and the Child of Desolation ritual circle. Keith Geller quietly signaled to Niles that he knows something about why the mutation failed and that he will keep Niles's secret.
+
+Brokk Runehammer believed the party had defeated a Silver-rank monster during the field test. Esbeth explained that the boar had not actually reached Silver rank, but promised Brokk that he will receive a Silver-rank monster core when the party returns from their quest.
+
+The party bought supplies and traveled for two weeks, gathering monster materials, herbs, equipment, coin, and several Iron-rank monster cores along the way.
+
+The party began the Elemental Crossing encounter. They defeated the Ice Elemental and Lightning Elemental, and Shavi's Shadows Greed produced two unresolved elemental items: a Silver-rank ice-themed rare item worth 263 gp and a lightning-themed common item worth 9 gp.
+
+Session 03 ended out of combat but still inside the Elemental Crossing. The Earth Elemental and Air Elemental are blocking the way to the far side of the crossing.
+
 ## Bronze Rank Advancement
 
 The party ranked up to Bronze.
