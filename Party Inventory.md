@@ -9,7 +9,7 @@ Individual characters also retain the items they received when creating their ch
 | Currency | Amount | Notes |
 |---|---:|---|
 | Gold | 14 gp | Remaining shared party coin after buying supplies for the journey in Session 03. |
-| Lost Coin Purse | 2d10 gp | Found during Session 03 travel. Amount not yet rolled. |
+| Lost Coin Purse | 10 gp | Found during Session 03 travel. |
 
 ## Containers
 
@@ -59,5 +59,4 @@ Loot gained from the defeated Ice Elemental and Lightning Elemental through Shav
 
 ## Unresolved Inventory Notes
 
-- Roll the Lost Coin Purse for 2d10 gp.
 - Item quantities from travel supplies have not been reduced for consumption unless the DM updates this file.
