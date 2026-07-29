@@ -54,7 +54,7 @@ Brokk Runehammer believed the party had defeated a Silver-rank monster during th
 
 The party bought supplies and traveled for two weeks, gathering monster materials, herbs, equipment, coin, and several Iron-rank monster cores along the way.
 
-The party began the Elemental Crossing encounter. They defeated the Ice Elemental and Lightning Elemental, and Shavi's Shadows Greed produced two unresolved elemental items: a Silver-rank ice-themed rare item worth 263 gp and a lightning-themed common item worth 9 gp.
+The party began the Elemental Crossing encounter. They defeated the Ice Elemental and Lightning Elemental, and Shavi's Shadows Greed produced two elemental items: the Crystal of Preserved Winter, a Silver-rank rare preservation item worth 263 gp, and a Sparkstone, a common lightning utility item worth 9 gp.
 
 Session 03 ended out of combat but still inside the Elemental Crossing. The Earth Elemental and Air Elemental are blocking the way to the far side of the crossing.
 
