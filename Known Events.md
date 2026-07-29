@@ -36,6 +36,12 @@ Niles joined the Magic Association.
 
 Niles let it slip near Thadwick that he is a Traveler. Thadwick left to clear his head, and Neil followed him.
 
+## Bronze Rank Advancement
+
+The party ranked up to Bronze.
+
+The party is currently recognized as Low Bronze.
+
 ## Session 03
 
 Steve woke up before the others and performed a rooster crow from the roof of the Church of Light, waking everyone up.
@@ -57,12 +63,6 @@ The party bought supplies and traveled for two weeks, gathering monster material
 The party began the Elemental Crossing encounter. They defeated the Ice Elemental and Lightning Elemental, and Shavi's Shadows Greed produced two elemental items: the Crystal of Preserved Winter, a Silver-rank rare preservation item worth 263 gp, and a Sparkstone, a common lightning utility item worth 9 gp.
 
 Session 03 ended out of combat but still inside the Elemental Crossing. The Earth Elemental and Air Elemental are blocking the way to the far side of the crossing.
-
-## Bronze Rank Advancement
-
-The party ranked up to Bronze.
-
-The party is currently recognized as Low Bronze.
 
 ## Unknowns
 
