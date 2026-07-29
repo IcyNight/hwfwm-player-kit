@@ -35,9 +35,10 @@ This folder should not include:
 1. `Rank Basics.md`
 2. `Essence Basics.md`
 3. `Party Reference.md`
-4. `Known NPCs.md`
-5. `Known Organizations.md`
-6. `Known Events.md`
+4. `Party Inventory.md`
+5. `Known NPCs.md`
+6. `Known Organizations.md`
+7. `Known Events.md`
 
 ## Canon Status
 
