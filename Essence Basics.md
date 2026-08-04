@@ -14,18 +14,6 @@ Essence powers use Essence Points. Confluence powers are separate.
 - Using an essence power costs 1 Essence Point.
 - Spent Essence Points reset to maximum after a long rest.
 
-## Silver-Rank Essence Imbuement
-
-At Silver rank, essence users unlock the ability to spend 1 Essence Point to imbue essence power into an existing D&D ability they are using.
-
-The effect should match the essence's theme and must be approved by the DM.
-
-Examples:
-
-- Fire Essence can change an ability's damage type to fire.
-- Life Essence can make an ability heal instead of damage a creature, if the DM agrees the target and situation make sense.
-- Knowledge Essence combined with the `legend lore` spell can expand the spell's effect.
-
 ## Known Bronze-Rank Essence Powers
 
 | Essence | Bronze-Rank Power | Cost | Action Cost | Effect |
