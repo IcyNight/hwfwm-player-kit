@@ -6,12 +6,9 @@ Individual characters also retain the items they received when creating their ch
 
 ## Current Inventory Summary
 
-### Shared Currency
+### Starting Gear
 
-| Currency | Amount |
-|---|---:|
-| Gold | 14 gp |
-| Lost Coin Purse | 10 gp |
+Individual characters have the items they received when creating their characters.
 
 ### Containers
 
@@ -19,40 +16,18 @@ Individual characters also retain the items they received when creating their ch
 |---|---:|---|
 | Bag of Holding | 1 | Shared party storage. |
 
-### Journey Supplies
-
-| Item | Quantity | Notes |
-|---|---:|---|
-| Grappling hook | 1 | Useful for climbing and securing ropes. |
-| Preserved meat, 1 week | 16 | Travel food. |
-| Bedroll | 3 | Sleeping gear. |
-| Two-Person Tent | 2 | Camping shelter. |
-| Rope, 50 ft hemp | 1 | General adventuring supply. |
-| Fishing Kit | 1 | Travel food gathering and fishing. |
-
-### Materials And Loot
+### Current Shared Items
 
 | Item | Quantity | Value / Notes |
 |---|---:|---|
-| Venom Sac or Gland | 2 | 18 gp each |
-| Affinity Gem | 2 | 15 gp each; condensed magical crystal |
-| Cliffwalker Boots | 1 | 25 gp; Iron-rank equipment. Grants advantage on Athletics checks made to climb natural stone and on Dexterity saving throws or ability checks made to avoid slipping on rocky ledges. |
-| Medicinal Herbs | 1 | 10 gp; can be consumed or prepared to restore 1d4 + the user's proficiency bonus HP, or used to grant advantage on a Medicine check |
-| Monster Innards | 3 | 5 gp each |
-| Monster Hide Bundle | 2 | 12 gp each |
-| Abandoned Adventurer Supplies | 1 | 15 gp; rope, arrows, pitons, oil, rations, and other useful adventuring gear |
+| Sparkstone | 1 | 9 gp; common lightning utility item. Instantly lights torches, campfires, candles, lanterns, pipes, or fuse cords. Produces harmless sparks indefinitely and cannot deal damage. |
 | Iron Rank Monster Core | 1 | 109 gp |
 | Iron Rank Monster Core | 1 | 173 gp |
 | Iron Rank Monster Core | 1 | 135 gp |
 | Iron Rank Monster Core | 1 | 179 gp |
-
-### Magical Items
-
-| Item | Quantity | Value / Notes |
-|---|---:|---|
-| Crystal of Preserved Winter | 1 | 263 gp; Silver-rank rare preservation item. Preserves monster organs indefinitely, preserves food, transports rare herbs safely, keeps corpses intact for resurrection or investigation, and assists alchemists. Does not directly increase combat power. |
-| Sparkstone | 1 | 9 gp; common lightning utility item. Instantly lights torches, campfires, candles, lanterns, pipes, or fuse cords. Produces harmless sparks indefinitely and cannot deal damage. |
-| Poison-Infused White Crystal Shard | 1 | Owned by Brokk Runehammer. Originally obtained from Balthazar, then infused with Vilastromoz's poison. When used to craft an item, the item's damage type will be purely poison. |
+| Broken Teleportation Compass | 1 | From the trade with Balthazar. A damaged magical compass that occasionally points toward unknown locations. |
+| Locked Steel Box | 1 | From the trade with Balthazar. A beautifully crafted lockbox that curses anyone who attempts to open it. Contents unknown. |
+| Green Crystal | 1 | Formerly the White Crystal Shard from the trade with Balthazar. Vilastromoz infused it with poison, turning it green. When Brokk creates an item using this crystal, the item's damage type will be purely poison. |
 
 ## Acquisition History
 
@@ -105,13 +80,21 @@ This loot came from the defeated Ice Elemental and Lightning Elemental through S
 | Ice Elemental | Crystal of Preserved Winter | 263 gp; Silver-rank rare item. |
 | Lightning Elemental | Sparkstone | 9 gp; common item. |
 
-### Session 04 Balthazar And Vilastromoz Loot
+### Session 04 Balthazar Trade
 
 | Source | Loot | Value / Notes |
 |---|---|---|
-| Balthazar, later altered by Vilastromoz | Poison-Infused White Crystal Shard | Owned by Brokk Runehammer. When used to craft an item, the item's damage type will be purely poison. |
+| Balthazar | Broken Teleportation Compass | Obtained from the trade with Balthazar. |
+| Balthazar | Locked Steel Box | Obtained from the trade with Balthazar. |
+| Balthazar | White Crystal Shard | Obtained from the trade with Balthazar, then altered by Vilastromoz. |
+
+### Session 04 Vilastromoz Alteration
+
+| Source | Item | Value / Notes |
+|---|---|---|
+| Vilastromoz | Green Crystal | Formerly the White Crystal Shard from Balthazar. Vilastromoz infused it with poison, turning it green. When Brokk creates an item using this crystal, the item's damage type will be purely poison. |
 
 ## Inventory Notes
 
-- Item quantities from travel supplies have not been reduced for consumption unless the DM updates this file.
-- Exact Balthazar transaction details from Session 04 have not been itemized here beyond the poison-infused crystal and Brokk Runehammer's active advertising bargain.
+- The current shared inventory is the authoritative active list at the top of this file.
+- Earlier supplies, currency, and loot are retained in acquisition history for context but are not treated as current inventory unless they also appear in the current summary.
