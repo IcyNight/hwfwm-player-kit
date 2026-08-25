@@ -24,7 +24,7 @@ Essence powers use Essence Points. Confluence powers are separate.
 | Doom | Doomed Fate | 1 Essence Point | Reaction | Impose disadvantage on an enemy's next saving throw. |
 | Fire | Fire Resistance | 1 Essence Point | Reaction | Halve incoming fire damage. |
 | Glory | Glory Kill | 1 Essence Point | Reaction | Gain 5 temporary hit points when killing a creature. |
-| Knowledge | Polyglot | 1 Essence Point | Action | Cast the `comprehend languages` spell without material costs. |
+| Knowledge | Polyglot | 1 Essence Point | Action | For 1 hour, understand and speak all languages. This includes the reading and listening benefits of `comprehend languages`, but also allows spoken communication. |
 | Life | Spark of Life | 1 Essence Point | Reaction | Grant an ally within line of sight advantage on their next death saving throw. |
 | Magic | Metamagic | 1 Essence Point | Bonus Action | Gain 1 use of Metamagic. |
 | Metal | Metallic Skin | 1 Essence Point | Bonus Action | Gain +1 AC until the start of your next turn. |

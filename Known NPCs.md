@@ -120,6 +120,63 @@ Neil is a member of the players' team. His confluence is defensive, protective, 
 
 Neil is an Elf built like a Human strongman.
 
+## Balthazar
+
+| Field | Known Information |
+|---|---|
+| Species | Giant talking crab |
+| Role | Traveling merchant |
+| Assistant | Druma |
+
+The party met Balthazar during Session 04 while traveling.
+
+Balthazar recognized Niles attempting magical manipulation during negotiations and refused to continue business while Niles remained nearby.
+
+Brokk Runehammer made a bargain with Balthazar blessed by the God of Merchants: one of Brokk's future creations must bear the words "Balthazar's Traveling Bazaar" in a way that genuinely functions as advertising.
+
+Balthazar escaped with Druma and his belongings after Shavi attempted to kidnap Druma and Brokk buried Balthazar's belongings with earth magic.
+
+## Druma
+
+| Field | Known Information |
+|---|---|
+| Species | Goblin |
+| Role | Balthazar's assistant |
+
+Druma works for Balthazar.
+
+During Session 04, Shavi attempted to kidnap Druma. Druma picked up a hammer to defend himself and immediately tripped and fell.
+
+## Vilastromoz
+
+| Field | Known Information |
+|---|---|
+| Informal Name | Vilas |
+| Rank | Diamond |
+| Species | True Dragon and Ascended Beast |
+| Connection | The Magistrate |
+
+Vilastromoz is the Diamond-rank True Dragon the party met during Session 04.
+
+The party first encountered him while sheltering inside what appeared to be a cave, which was actually his open mouth while he slept in enormous snake form.
+
+Vilastromoz recognized Staash as a True Dragon and revealed Staash's full dragon name, Velitraxistaasch.
+
+Vilastromoz told Shavi that the blind stranger who gave him the drugs was the Magistrate.
+
+## Jenny
+
+| Field | Known Information |
+|---|---|
+| Affiliation | Cult of the Child of Desolation |
+| Rank | High Bronze |
+
+Jenny ambushed the party roughly thirty minutes from Thundercrest Spire.
+
+Shavi recognized her. Jenny blamed Shavi and the party for killing her husband and children.
+
+Jenny uses a Murloc King monster core, and each use visibly damages her body.
+
 ## Ask the DM Before Adding
 
 - NPC secrets.

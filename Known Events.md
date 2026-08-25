@@ -64,6 +64,38 @@ The party began the Elemental Crossing encounter. They defeated the Ice Elementa
 
 Session 03 ended out of combat but still inside the Elemental Crossing. The Earth Elemental and Air Elemental are blocking the way to the far side of the crossing.
 
+## Session 04
+
+Shavi woke up from his drugged Astral trip and told the party about the entities he had seen.
+
+The party checked whether Oras meant Neil when he referred to "the elf." He did not.
+
+After a short rest, the party directly dealt with the two remaining elementals. Brokk Runehammer pushed one elemental into the chasm using one of his Runic race features. The second elemental moved aside after a combination of the `command` spell and Niles using his Knowledge Essence in a broader way than before.
+
+From this point forward, the Knowledge Essence's Polyglot power allows the user to understand and speak all languages for the duration.
+
+The party crossed safely and continued the journey.
+
+The party met Balthazar and Druma while traveling. The encounter began as a merchant negotiation. Niles attempted magical manipulation during the negotiation, Balthazar recognized it, and Balthazar refused to keep doing business while Niles remained nearby.
+
+Brokk negotiated successfully with Balthazar and made a bargain blessed by the God of Merchants: one of Brokk's future creations must bear the words "Balthazar's Traveling Bazaar" in a way that genuinely functions as advertising.
+
+As the party was leaving, Shavi attempted to kidnap Druma. Druma picked up a hammer to defend himself and immediately tripped and fell. Brokk then used an earth spell that buried Balthazar's belongings. Balthazar, Druma, and the buried belongings escaped by teleportation.
+
+One week later, the party met Vilastromoz during the storm shelter encounter. The apparent cave was Vilastromoz's open mouth. Vilastromoz revealed that Staash is a True Dragon, and Staash's full dragon name, Velitraxistaasch, was spoken.
+
+Vilastromoz told Shavi that the one who gave him the drugs was the Magistrate. Niles recognized the name Magistrate and remembered that most people think the Magistrate is fictional because of all the progress he helped make.
+
+Vilastromoz gave brief explanations of some Great Astral Beings: the Builder creates universes; the World Phoenix protects universes and their balance; the Reaper is in charge of what happens to souls of the dead in the multiverse; the Keeper of Moments is in charge of time; and Vilastromoz warned the party not to make deals with Legion. Vilastromoz would not explain the All-Devouring Eye, the Celestial Book, or Oras.
+
+Brokk asked Vilastromoz for a scale for blacksmithing. Instead, Vilastromoz infused poison into the white crystal Brokk got from Balthazar, turning it green. When Brokk creates an item using the crystal, the damage type of the item will be purely poison.
+
+The party asked Vilastromoz for a ride to Thundercrest Spire. He agreed, but the party failed to remain on his back and fell during travel. The ride still shortened the journey by two days.
+
+The party reached Jenny's ambush. Shavi recognized Jenny. Jenny blamed Shavi and the party for killing her husband and children, though the party knows she was involved with the cult. After Jenny cursed the party, Shavi slapped her and combat began.
+
+Session 04 ended in the middle of Jenny's ambush.
+
 ## Unknowns
 
 If something is still a mystery to the party, keep it framed as a mystery here. Do not add the DM answer until it is revealed in play.

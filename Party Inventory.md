@@ -52,6 +52,7 @@ Individual characters also retain the items they received when creating their ch
 |---|---:|---|
 | Crystal of Preserved Winter | 1 | 263 gp; Silver-rank rare preservation item. Preserves monster organs indefinitely, preserves food, transports rare herbs safely, keeps corpses intact for resurrection or investigation, and assists alchemists. Does not directly increase combat power. |
 | Sparkstone | 1 | 9 gp; common lightning utility item. Instantly lights torches, campfires, candles, lanterns, pipes, or fuse cords. Produces harmless sparks indefinitely and cannot deal damage. |
+| Poison-Infused White Crystal Shard | 1 | Owned by Brokk Runehammer. Originally obtained from Balthazar, then infused with Vilastromoz's poison. When used to craft an item, the item's damage type will be purely poison. |
 
 ## Acquisition History
 
@@ -104,6 +105,13 @@ This loot came from the defeated Ice Elemental and Lightning Elemental through S
 | Ice Elemental | Crystal of Preserved Winter | 263 gp; Silver-rank rare item. |
 | Lightning Elemental | Sparkstone | 9 gp; common item. |
 
+### Session 04 Balthazar And Vilastromoz Loot
+
+| Source | Loot | Value / Notes |
+|---|---|---|
+| Balthazar, later altered by Vilastromoz | Poison-Infused White Crystal Shard | Owned by Brokk Runehammer. When used to craft an item, the item's damage type will be purely poison. |
+
 ## Inventory Notes
 
 - Item quantities from travel supplies have not been reduced for consumption unless the DM updates this file.
+- Exact Balthazar transaction details from Session 04 have not been itemized here beyond the poison-infused crystal and Brokk Runehammer's active advertising bargain.
