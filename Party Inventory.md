@@ -16,11 +16,19 @@ Individual characters have the items they received when creating their character
 |---|---:|---|
 | Bag of Holding | 1 | Shared party storage. |
 
+### Shared Currency
+
+| Currency | Amount | Notes |
+|---|---:|---|
+| Gold | 42 gp | Includes the 24 gp the party previously had, plus 18 gp added to the current inventory. |
+
 ### Current Shared Items
 
 | Item | Quantity | Value / Notes |
 |---|---:|---|
 | Sparkstone | 1 | 9 gp; common lightning utility item. Instantly lights torches, campfires, candles, lanterns, pipes, or fuse cords. Produces harmless sparks indefinitely and cannot deal damage. |
+| Medicinal Herbs | 1 | 10 gp; can be consumed or prepared to restore 1d4 + the user's proficiency bonus hit points, or used to grant advantage on a Medicine check. |
+| Monster Innards | 1 | 5 gp; organs and other usable biological components prized by alchemists, researchers, and certain craftsmen. Neil is... less enthusiastic about carrying these. |
 | Iron Rank Monster Core | 1 | 109 gp |
 | Iron Rank Monster Core | 1 | 173 gp |
 | Iron Rank Monster Core | 1 | 135 gp |
