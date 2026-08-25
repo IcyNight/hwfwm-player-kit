@@ -92,7 +92,7 @@ Brokk asked Vilastromoz for a scale for blacksmithing. Instead, Vilastromoz infu
 
 The party asked Vilastromoz for a ride to Thundercrest Spire. He agreed, but the party failed to remain on his back and fell during travel. The ride still shortened the journey by two days.
 
-The party reached Jenny's ambush. Shavi recognized Jenny. Jenny blamed Shavi and the party for killing her husband and children, though the party knows she was involved with the cult. After Jenny cursed the party, Shavi slapped her and combat began.
+The party reached Jenny's ambush. Shavi recognized Jenny. Jenny blamed Shavi and the party for killing her husband and children. The party did not know her true affiliation at that moment. After Jenny cursed the party, Shavi slapped her and combat began.
 
 Session 04 ended in the middle of Jenny's ambush.
 

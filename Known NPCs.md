@@ -168,7 +168,7 @@ Vilastromoz told Shavi that the blind stranger who gave him the drugs was the Ma
 
 | Field | Known Information |
 |---|---|
-| Affiliation | Cult of the Child of Desolation |
+| Affiliation | Not confirmed by the party |
 | Rank | High Bronze |
 
 Jenny ambushed the party roughly thirty minutes from Thundercrest Spire.
