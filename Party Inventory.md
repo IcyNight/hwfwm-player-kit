@@ -16,6 +16,17 @@ Individual characters have the items they received when creating their character
 |---|---:|---|
 | Bag of Holding | 1 | Shared party storage. |
 
+### Journey Supplies
+
+| Item | Quantity | Notes |
+|---|---:|---|
+| Grappling hook | 1 | Useful for climbing and securing ropes. |
+| Preserved meat, 1 week | 16 | Travel food. |
+| Bedroll | 3 | Sleeping gear. |
+| Two-Person Tent | 2 | Camping shelter. |
+| Rope, 50 ft hemp | 1 | General adventuring supply. |
+| Fishing Kit | 1 | Travel food gathering and fishing. |
+
 ### Shared Currency
 
 | Currency | Amount | Notes |
