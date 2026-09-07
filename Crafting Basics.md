@@ -1,6 +1,6 @@
 # Crafting Basics
 
-This file explains the campaign's player-facing blacksmithing and Masterpiece item rules.
+This file explains the campaign's player-facing blacksmithing rules.
 
 ## Three-Step Blacksmithing System
 
@@ -401,7 +401,7 @@ Compare the score to Smithing DC.
 | DC - 5 < Score < DC | Success, but item gains one negative effect |
 | DC <= Score < DC + 5 | Normal success |
 | Score >= DC + 5 | Success; item gains one positive effect in addition to its planned properties |
-| Natural 20 | Item becomes a Masterpiece Item of its intended rank |
+| Natural 20 | Masterpiece |
 
 Natural 1 and natural 20 are special outcomes.
 
@@ -435,65 +435,6 @@ These examples are not exhaustive tables.
 
 Effects should fit the individual project.
 
-## Masterpiece Items
-
-If the Step 3 Smithing roll is a natural 20, the resulting item becomes:
-
-> A Masterpiece Item of its intended rank.
-
-A Masterpiece is qualitatively different from an ordinary exceptional crafting result.
-
-It has two major special properties.
-
-### Soul Binding
-
-A Masterpiece Item may become soul-bound to a person.
-
-Once soul-bound, the Masterpiece can rank up alongside its owner.
-
-Example:
-
-> Bronze -> Silver -> Gold -> Diamond
-
-A Bronze Masterpiece soul-bound to a Bronze-rank adventurer can potentially progress through those ranks as its owner progresses.
-
-This allows Masterpieces to remain meaningful signature equipment rather than eventually becoming obsolete because their owner has surpassed the item's original rank.
-
-Soul-binding requirements, rituals, costs, restrictions, and transfer mechanics are handled by the DM when they become relevant.
-
-### Confluence Channeling
-
-A soul-bound Masterpiece can channel part of its owner's confluence without requiring the owner to activate the confluence itself.
-
-The word part is important.
-
-The Masterpiece does not automatically provide unrestricted access to every function of the owner's confluence.
-
-Instead, the item can express an aspect of what that confluence represents in a manner appropriate to:
-
-- The item.
-- The owner.
-- The confluence.
-- The item's rank.
-
-For example, an item soul-bound to someone with Astral Forge might eventually express an appropriate aspect of forging, reinforcement, repair, transformation, or similar concepts without requiring full Astral Forge activation.
-
-This example is illustrative only.
-
-Specific Masterpiece powers require DM confirmation.
-
-### Progression Principle
-
-A Masterpiece should not merely gain larger numerical bonuses as its owner ranks up.
-
-Ideally:
-
-> The item gradually becomes more representative of the person to whom it is soul-bound.
-
-Its expression of the owner's confluence may develop alongside them.
-
-Exact progression mechanics are handled by the DM when they become relevant.
-
 ## Crafting Philosophy
 
 The crafting system separates all three stages because different parts of the process can succeed or fail in different ways.
@@ -505,7 +446,7 @@ A character may:
 - Gradually solve a difficult blueprint through repeated attempts.
 - Successfully create an item with an unintended flaw.
 - Produce an unexpectedly superior item.
-- Very rarely create a true Masterpiece.
+- Very rarely create something extraordinary.
 
 The system rewards creativity, relevant character skills, cooperation, preparation, material choice, time investment, and crafting proficiency.
 
