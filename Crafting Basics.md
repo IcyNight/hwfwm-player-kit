@@ -1,196 +1,514 @@
 # Crafting Basics
 
-Crafting special equipment is handled in three steps:
+This file explains the campaign's player-facing blacksmithing and Masterpiece item rules.
+
+## Three-Step Blacksmithing System
+
+Blacksmithing uses three sequential stages:
 
 > Concept -> Blueprint -> Smithing
 
-Each step represents a different part of making something useful.
+These stages represent different parts of craftsmanship:
 
-- Concept: What are you trying to make?
-- Blueprint: How does the design actually work?
-- Smithing: Can you successfully build it?
+- Concept: What should I create?
+- Blueprint: How can I make it work?
+- Smithing: Can I successfully manufacture it?
 
-The DM will set the exact difficulty, time, materials, and final result based on the item, your approach, and the resources available.
+## Core Crafting Variables
 
-## Quick Version
+The system uses three independent 1-10 scales.
 
-1. Describe the item you want to create.
-2. Explain what inspires the design or what problem it is meant to solve.
-3. Make a Concept check using a skill you can reasonably justify.
-4. If the concept works, spend time making a Blueprint.
-5. Once the Blueprint is ready, spend time Smithing the item.
-6. The final Smithing result determines whether the item is flawed, normal, especially good, or exceptional.
+### Design Complexity
+
+Design Complexity represents how difficult the item is to design and engineer.
+
+Complexity affects Blueprint DC and Blueprint creation time.
+
+It represents sophistication rather than power or rank.
+
+| Complexity | General Meaning |
+|---:|---|
+| 1-2 | Simple or well-understood design |
+| 3-4 | Normal specialized equipment |
+| 5-6 | Unusual or custom design |
+| 7-8 | Highly sophisticated design or multiple interacting functions |
+| 9 | Extremely complex experimental design |
+| 10 | Cutting-edge design pushing the smith's understanding |
+
+A high-rank item can still have low Complexity if its actual design is simple.
+
+### Main Material Workability
+
+Main Material Workability represents how difficult the item's primary material is to physically work.
+
+Workability affects Smithing DC and Smithing time.
+
+Workability is not the same as rarity, monetary value, magical power, or item rank.
+
+A valuable material can be easy to work, while an inexpensive monster material could be extremely difficult to shape.
+
+### Construction Scale
+
+Construction Scale represents how much actual work the item requires due to physical size, number of components, number of interconnected pieces, and amount of construction required.
+
+Construction Scale affects time only.
+
+It does not modify Blueprint DC or Smithing DC.
+
+| Scale | Example |
+|---:|---|
+| 1 | Ring, arrowhead, tiny component |
+| 2 | Dagger, simple tool |
+| 3 | Sword, hammer, axe |
+| 4 | Large weapon, shield, helmet |
+| 5 | Complex weapon, small armor assembly |
+| 6 | Half plate or several interconnected pieces |
+| 7 | Full plate armor |
+| 8 | Large elaborate equipment |
+| 9 | Very large or exceptionally component-heavy construction |
+| 10 | Massive smithing project |
+
+These are guidelines rather than rigid classifications.
+
+Core distinction:
+
+> Complexity = how hard is it to figure out?
+>
+> Workability = how hard is the material to work?
+>
+> Construction Scale = how much work is there to do?
 
 ## Step 1 - Concept
 
-The Concept step is about the idea.
+The character first determines what they want to create.
 
-Decide:
+This includes deciding:
 
 - What the item is.
-- What it is supposed to do.
-- Who it is for.
-- What materials, monsters, magic, techniques, or experiences inspire it.
-- Whether it is practical, symbolic, magical, experimental, or a mix of those.
+- What purpose it serves.
+- Its intended functions.
+- Its intended abilities or features.
+- What inspires the design.
 
-You then make a skill check.
+The player then makes a skill check.
 
-You can suggest any skill if you can explain how it helps the idea.
+### Skill Selection
+
+The player may use any skill for this check as long as they can reasonably explain how that skill contributes to the concept.
 
 Examples:
 
-- Arcana for magical theory.
-- Nature for monster parts, natural materials, or living patterns.
-- Medicine for anatomy or preservation.
-- Athletics for practical combat or movement experience.
-- Investigation for studying an existing item.
-- Survival for hostile terrain or travel needs.
-- Religion for divine themes or sacred symbolism.
+- Arcana to understand a magical phenomenon the item will reproduce.
+- Nature to draw inspiration from a monster or natural process.
+- Medicine to design equipment around anatomy.
+- Athletics to draw from practical experience using weapons or moving under physical strain.
+- Investigation to analyze existing equipment.
+- Survival to design something for a hostile environment.
+- Religion to incorporate knowledge of divine or mystical principles.
 
-Creative explanations are welcome, but the DM decides what fits.
+Creative justifications are encouraged.
 
-### Getting Help
+The DM determines whether the explanation is reasonable.
 
-Other characters can help if their contribution makes sense.
+### Inspiration Time
 
-Help might come from:
+Step 1 does not use normal hourly work calculations.
 
-- Another adventurer describing what they need from the item.
-- A caster explaining how a magical effect feels or behaves.
-- A skilled craftsperson pointing out a practical concern.
-- Someone with relevant field experience offering examples.
+The concept develops over either:
 
-Useful help may grant advantage on the Concept check.
+> 1 full day without combat
+
+or:
+
+> 1 week if the character experiences combat every day
+
+This represents the character thinking about the project while observing things, talking to people, experimenting, adventuring, studying, gathering inspiration, and considering possible designs.
+
+The character does not need to spend the entire period sitting at a desk.
+
+### Help
+
+Step 1 has the most permissive Help rules of the crafting system.
+
+Almost anyone can potentially contribute because anything can be a source of inspiration.
+
+A creature providing reasonable assistance gives the player advantage on the Step 1 roll.
+
+Multiple helpers do not stack additional advantage or bonuses.
+
+Help must still make contextual sense.
+
+For example, another adventurer can discuss problems with existing equipment, a wizard can describe how a magical effect feels or behaves, a child could make an unexpected observation that inspires the design, and an animal could contribute indirectly if the item relates to that animal or its behavior.
+
+### Resolution
+
+Calculate:
+
+> Score = d20 + relevant modifiers
+
+Compare the score to the Step 1 DC.
+
+| Result | Outcome |
+|---|---|
+| Natural 20 | Success; Blueprint DC receives -5 |
+| Score >= DC + 5 | Success; Blueprint DC receives -2 |
+| DC <= Score < DC + 5 | Success |
+| DC - 5 < Score < DC | Success; Blueprint DC receives +2 |
+| Score <= DC - 5 | Failure |
+
+On failure, the current concept has not developed into something the character believes is workable.
+
+Failure does not automatically mean the desired item is impossible.
+
+The character may potentially revisit the idea later.
+
+The Step 1 modifier is carried into Step 2.
 
 ## Step 2 - Blueprint
 
-The Blueprint step turns the idea into a real design.
+The character converts the successful concept into an actual technical blueprint.
 
-This is where the crafter works out:
+The player makes either an Intelligence check or a Wisdom check.
 
-- Measurements.
-- Materials.
-- Structure.
-- Magical channels.
-- Moving parts.
-- How the item should be assembled.
-- What parts of the design might fail if handled poorly.
+The player chooses which ability to use.
 
-For this step, the crafter usually makes either an Intelligence check or a Wisdom check.
+Intelligence can represent calculated engineering, measurements, theory, material science, magical calculations, and similar approaches.
 
-Intelligence represents calculated design, theory, engineering, and technical planning.
+Wisdom can represent practical intuition, craftsmanship experience, instinctive understanding of materials, and similar approaches.
 
-Wisdom represents practical experience, instinct, and a craftsperson's feel for how the work should come together.
+Neither ability is inherently superior.
 
-Neither approach is automatically better.
+### Readability
 
-Blueprint work takes time. The more complicated and larger the item is, the more time it usually takes.
+When creating the blueprint, the player chooses how understandable it is intended to be.
 
-### Readable Blueprints
+Readability modifies Blueprint DC.
 
-Before making a Blueprint, decide who it is meant to be readable by.
+| Intended Reader | Modifier |
+|---|---:|
+| Only the blueprint's creator needs to understand it | +1 |
+| A trained blacksmith should be able to understand it | +3 |
+| An average NPC should be able to understand it | +5 |
 
-- Personal Blueprint: only the creator is expected to understand it.
-- Craftsperson Blueprint: another trained smith should be able to follow it.
-- Public Blueprint: an ordinary person could understand the basic instructions.
+A personal blueprint may contain shorthand, assumptions, personal notation, or intuitive instructions only its creator understands.
 
-More readable blueprints take more care, but they are easier to share, teach from, sell, or hand to another smith.
+A more readable blueprint requires additional clarity and precision.
+
+This allows highly readable blueprints to potentially become useful items that can be shared, taught from, sold, or used by other smiths.
+
+### Blueprint DC
+
+Calculate:
+
+> Blueprint DC = 10 + Step 1 Modifier + Design Complexity + Readability
+
+The Step 1 Modifier is:
+
+- Natural 20: -5.
+- Score >= Step 1 DC + 5: -2.
+- Normal success: 0.
+- Score between DC - 5 and DC: +2.
+
+### Blueprint Time
+
+Calculate:
+
+> Blueprint Work Time = Design Complexity x Construction Scale x 15 minutes
+
+Examples:
+
+- Complexity 3 / Scale 3 = 135 minutes = 2 hours 15 minutes.
+- Complexity 6 / Scale 4 = 360 minutes = 6 hours.
+- Complexity 8 / Scale 7 = 840 minutes = 14 hours.
+
+This is active work time.
+
+The required work may be divided across multiple periods or days.
+
+The Blueprint roll is made after the required work has been completed.
+
+### Help
+
+Another creature may help with blueprint creation if there is a reasonable justification for how they contribute to the design process.
+
+Valid Help grants advantage on the Blueprint roll.
+
+Possible examples include:
+
+- Another smith checking measurements.
+- A mage assisting with magical theory.
+- An anatomist helping with articulated armor.
+- The intended wielder providing technical or practical feedback.
+- Someone with specialized knowledge relevant to the design.
+
+The standard for reasonable Help is stricter than Step 1 because the assistant must actually contribute to designing the blueprint.
+
+Multiple helpers do not provide stacking bonuses.
+
+### Resolution
+
+Calculate:
+
+> Score = d20 + relevant modifiers
+
+Compare the score to Blueprint DC.
+
+| Result | Outcome |
+|---|---|
+| Natural 20 | Success; Smithing DC receives -5 |
+| Score >= DC + 5 | Success; Smithing DC receives -2 |
+| DC <= Score < DC + 5 | Success |
+| DC - 5 < Score < DC | Blueprint incomplete; another work period or attempt is required and the Blueprint DC permanently decreases by 2 |
+| Score <= DC - 5 | Failure |
+
+### Incomplete Blueprint Progress
+
+The -2 DC reduction from an incomplete Blueprint result is cumulative.
+
+Example:
+
+Initial Blueprint DC:
+
+> DC 21
+
+First attempt:
+
+> Score 18
+
+This falls in the incomplete range.
+
+New DC:
+
+> 19
+
+Second attempt:
+
+> Score 17
+
+Still incomplete.
+
+New DC:
+
+> 17
+
+Third attempt:
+
+> Score 17
+
+Success.
+
+This represents repeated drafting, testing, revisions, corrections, solving engineering problems, and gradually understanding the design.
+
+The original Step 1 modifier does not change.
+
+The accumulating -2 reductions belong specifically to this blueprint's development.
+
+Each new Blueprint attempt requires another appropriate period of work based on the Blueprint's normal work-time calculation unless the DM rules otherwise.
 
 ## Step 3 - Smithing
 
-The Smithing step is the physical creation of the item.
+Once the blueprint is successfully completed, the character physically creates the item.
 
-This uses Smith's Tools or other appropriate crafting tools, depending on the item.
+The character makes a Smithing check.
 
-The DM may consider:
+The character adds proficiency if they are proficient with Smith's Tools.
 
-- Your tool proficiency.
-- The item's intended rank.
-- The main material being worked.
-- The size and number of parts.
-- The quality of the Blueprint.
-- Whether you have proper tools, workspace, and assistance.
+The appropriate ability modifier should follow the campaign's normal Smithing or tool rules if already established.
 
-Smithing takes active work time. You can usually split that work across multiple days.
+### Smithing DC
 
-The final Smithing check determines the finished item.
+Calculate:
 
-Possible outcomes include:
+> Smithing DC = 10 + Step 2 Modifier + Main Material Workability + Expected Rank Modifier
 
-- The item fails and some materials are lost.
-- The item works, but has a flaw.
-- The item works as intended.
-- The item works better than intended.
-- The item becomes a Masterpiece.
+The Step 2 Modifier is:
+
+- Blueprint Natural 20: -5.
+- Blueprint Score >= DC + 5: -2.
+- Normal Blueprint success: 0.
+
+### Expected Rank Modifier
+
+Compare the intended item's rank to the blacksmith's current rank.
+
+Campaign rank order:
+
+> Iron -> Bronze -> Silver -> Gold -> Diamond
+
+| Expected Item Rank | Modifier |
+|---|---:|
+| Lower than blacksmith's rank | +1 |
+| Same as blacksmith's rank | +2 |
+| 1 rank higher | +3 |
+| 2 ranks higher | +4 |
+| 3 ranks higher | +5 |
+| Continue accordingly | +1 for each additional rank |
+
+Higher than smith = +3 for the first rank above, then +1 for every additional rank above that.
+
+### Smithing Time
+
+Calculate:
+
+> Smithing Work Time = Main Material Workability x Construction Scale x 30 minutes
+
+Examples:
+
+- Scale 3 sword using Workability 3 material: 270 minutes = 4 hours 30 minutes.
+- Scale 3 sword using Workability 8 material: 720 minutes = 12 hours.
+- Scale 7 plate armor using Workability 5 material: 1,050 minutes = 17 hours 30 minutes.
+
+This is active crafting time.
+
+The required work does not need to be consecutive.
+
+For example, a 17.5-hour project could be divided into 5 hours on Day 1, 6 hours on Day 2, and 6.5 hours on Day 3.
+
+The Smithing roll occurs after the required crafting time has been completed.
+
+### Help
+
+Another creature may help with Smithing if there is a reasonable justification for how they contribute to physically creating the item.
+
+Valid Help grants advantage on the Smithing roll.
+
+Possible assistance could include:
+
+- Another blacksmith assisting with the forge.
+- Someone physically manipulating a massive workpiece.
+- A mage stabilizing magical material.
+- Someone knowledgeable about a monster component assisting while it is worked.
+- Another relevant specialist performing part of the construction.
+
+Smith's Tools proficiency is not automatically required to Help if the helper's contribution makes sense.
+
+The DM determines whether the assistance is reasonable.
+
+Multiple helpers do not stack additional advantage.
+
+### Resolution
+
+Calculate:
+
+> Score = d20 + relevant modifiers
+
+Compare the score to Smithing DC.
+
+| Result | Outcome |
+|---|---|
+| Natural 1 | Failure; all materials are lost |
+| Score <= DC - 5 | Failure; lose half the materials or one important material |
+| DC - 5 < Score < DC | Success, but item gains one negative effect |
+| DC <= Score < DC + 5 | Normal success |
+| Score >= DC + 5 | Success; item gains one positive effect in addition to its planned properties |
+| Natural 20 | Item becomes a Masterpiece Item of its intended rank |
+
+Natural 1 and natural 20 are special outcomes.
 
 ## Positive And Negative Effects
 
-Crafted items can develop extra traits based on the materials, design, circumstances, and roll result.
+Positive and negative effects should generally be related to the item's design, intended purpose, materials used, and the circumstances of construction.
 
-Positive effects might include:
+Possible positive effects could include:
 
-- Lighter weight.
-- Better durability.
+- Lower weight.
+- Exceptional durability.
+- Improved edge retention.
+- An additional use of a minor ability.
+- Improved range.
 - Easier activation.
-- Cleaner handling.
-- Better performance in specific circumstances.
-- An extra minor magical feature.
+- Minor unintended magical functionality.
+- Exceptional performance under particular circumstances.
 
-Negative effects might include:
+Possible negative effects could include:
 
-- Heavier weight.
+- Excessive weight.
+- Noise.
 - Awkward handling.
-- Extra maintenance.
-- Reduced uses.
+- Additional maintenance requirements.
+- Reduced uses of an ability.
 - Narrower activation conditions.
-- A drawback tied to the material or design.
+- Minor activation cost.
+- Vulnerability to certain circumstances, materials, or damage.
 
-These effects should fit the item rather than feel random.
+These examples are not exhaustive tables.
+
+Effects should fit the individual project.
 
 ## Masterpiece Items
 
-An exceptional Smithing result can create a Masterpiece Item.
+If the Step 3 Smithing roll is a natural 20, the resulting item becomes:
 
-A Masterpiece Item is not just a better tool. It is a rare work that can become important to a character's identity and story.
+> A Masterpiece Item of its intended rank.
 
-A Masterpiece may eventually become soul-bound to a person.
+A Masterpiece is qualitatively different from an ordinary exceptional crafting result.
 
-If a Masterpiece becomes soul-bound, it can grow alongside that person instead of being replaced like ordinary gear.
+It has two major special properties.
 
-For example, a Bronze-rank Masterpiece might eventually continue developing as its owner reaches higher ranks.
+### Soul Binding
 
-## Confluence Expression
+A Masterpiece Item may become soul-bound to a person.
 
-A soul-bound Masterpiece can potentially express part of its owner's confluence.
+Once soul-bound, the Masterpiece can rank up alongside its owner.
 
-This does not mean the item gains full access to the confluence or copies every confluence power.
+Example:
 
-Instead, the item may develop an effect that fits:
+> Bronze -> Silver -> Gold -> Diamond
+
+A Bronze Masterpiece soul-bound to a Bronze-rank adventurer can potentially progress through those ranks as its owner progresses.
+
+This allows Masterpieces to remain meaningful signature equipment rather than eventually becoming obsolete because their owner has surpassed the item's original rank.
+
+Soul-binding requirements, rituals, costs, restrictions, and transfer mechanics are handled by the DM when they become relevant.
+
+### Confluence Channeling
+
+A soul-bound Masterpiece can channel part of its owner's confluence without requiring the owner to activate the confluence itself.
+
+The word part is important.
+
+The Masterpiece does not automatically provide unrestricted access to every function of the owner's confluence.
+
+Instead, the item can express an aspect of what that confluence represents in a manner appropriate to:
 
 - The item.
 - The owner.
-- The owner's confluence.
+- The confluence.
 - The item's rank.
-- The story of how the item was made and used.
 
-Specific powers are decided by the DM.
+For example, an item soul-bound to someone with Astral Forge might eventually express an appropriate aspect of forging, reinforcement, repair, transformation, or similar concepts without requiring full Astral Forge activation.
 
-## Good Crafting Questions
+This example is illustrative only.
 
-When you want to craft something, useful questions include:
+Specific Masterpiece powers require DM confirmation.
 
-- What problem am I trying to solve?
-- What should this item do that normal equipment cannot?
-- What material or monster part makes sense for this design?
-- Is this meant to be practical, symbolic, experimental, or personal?
-- Who is helping me, and how?
-- Do I want a quick personal design or a readable blueprint others can use?
-- What would make this item feel connected to my character?
+### Progression Principle
 
-## Player Reminder
+A Masterpiece should not merely gain larger numerical bonuses as its owner ranks up.
 
-You do not need to know every hidden number behind the crafting system.
+Ideally:
 
-Your job is to describe what you want, explain why it makes sense, gather useful materials, ask for help when it fits, and make interesting choices.
+> The item gradually becomes more representative of the person to whom it is soul-bound.
 
-The DM will handle the exact difficulty and consequences.
+Its expression of the owner's confluence may develop alongside them.
+
+Exact progression mechanics are handled by the DM when they become relevant.
+
+## Crafting Philosophy
+
+The crafting system separates all three stages because different parts of the process can succeed or fail in different ways.
+
+A character may:
+
+- Have a brilliant idea but struggle to engineer it.
+- Produce an excellent blueprint but struggle with difficult material.
+- Gradually solve a difficult blueprint through repeated attempts.
+- Successfully create an item with an unintended flaw.
+- Produce an unexpectedly superior item.
+- Very rarely create a true Masterpiece.
+
+The system rewards creativity, relevant character skills, cooperation, preparation, material choice, time investment, and crafting proficiency.
+
+The fundamental workflow is:
+
+> Inspiration -> Engineering -> Execution
