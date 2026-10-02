@@ -45,7 +45,7 @@ Individual characters have the items they received when creating their character
 | Iron Rank Monster Core | 1 | 135 gp |
 | Iron Rank Monster Core | 1 | 179 gp |
 | Broken Teleportation Compass | 1 | From the trade with Balthazar. A damaged magical compass that occasionally points toward unknown locations. |
-| Locked Steel Box | 1 | From the trade with Balthazar. A beautifully crafted lockbox that curses anyone who attempts to open it. Contents unknown. |
+| Locked Metal Box | 1 | Purchased from Balthazar. A beautifully crafted locked metal box that may be cursed. Contents unknown. |
 | Green Crystal | 1 | Formerly the White Crystal Shard from the trade with Balthazar. Vilastromoz infused it with poison, turning it green. When Brokk creates an item using this crystal, the item's damage type will be purely poison. |
 
 ## Acquisition History
@@ -104,7 +104,7 @@ This loot came from the defeated Ice Elemental and Lightning Elemental through S
 | Source | Loot | Value / Notes |
 |---|---|---|
 | Balthazar | Broken Teleportation Compass | Obtained from the trade with Balthazar. |
-| Balthazar | Locked Steel Box | Obtained from the trade with Balthazar. |
+| Balthazar | Locked Metal Box | Purchased from Balthazar. |
 | Balthazar | White Crystal Shard | Obtained from the trade with Balthazar, then altered by Vilastromoz. |
 
 ### Session 04 Vilastromoz Alteration
