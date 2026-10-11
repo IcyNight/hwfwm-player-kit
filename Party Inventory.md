@@ -47,6 +47,11 @@ Individual characters have the items they received when creating their character
 | Broken Teleportation Compass | 1 | From the trade with Balthazar. A damaged magical compass that occasionally points toward unknown locations. |
 | Locked Metal Box | 1 | Purchased from Balthazar. A beautifully crafted locked metal box that may be cursed. Contents unknown. |
 | Green Crystal | 1 | Formerly the White Crystal Shard from the trade with Balthazar. Vilastromoz infused it with poison, turning it green. When Brokk creates an item using this crystal, the item's damage type will be purely poison. |
+| Bronze Spirit Coin | 6 | Found after the Jenny fight and first long rest in Session 05; unused. |
+| Arthur's research notes | 1 collection | Found in Arthur's hidden laboratory. |
+| Monster parts | 10 | Found in Arthur's hidden laboratory. |
+| Hollow monster core | 3 | Empty cores with no set magic type and no rank; found in Arthur's hidden laboratory. |
+| Poison vials | 5 | Found in Arthur's hidden laboratory; contents and effects not further specified. |
 
 ## Acquisition History
 
@@ -112,6 +117,18 @@ This loot came from the defeated Ice Elemental and Lightning Elemental through S
 | Source | Item | Value / Notes |
 |---|---|---|
 | Vilastromoz | Green Crystal | Formerly the White Crystal Shard from Balthazar. Vilastromoz infused it with poison, turning it green. When Brokk creates an item using this crystal, the item's damage type will be purely poison. |
+
+### Session 05 Jenny Aftermath And Hidden Laboratory
+
+After defeating Jenny and the cultists, the party burned their bodies without checking their pockets and took a long rest. Afterward, the party found six Bronze Spirit Coins but did not use them. Arthur's key led to his hidden laboratory, where the party found the items below. Steve also found an experimental carnivorous plant fed with monster parts; it is not listed as carried party inventory.
+
+| Source | Item | Quantity | Notes |
+|---|---|---:|---|
+| After Jenny encounter | Bronze Spirit Coin | 6 | Unused. |
+| Arthur's laboratory | Arthur's research notes | 1 collection | Found by the party. |
+| Arthur's laboratory | Monster parts | 10 | Found by the party. |
+| Arthur's laboratory | Hollow monster core | 3 | Empty; no rank or set magic type. |
+| Arthur's laboratory | Poison vials | 5 | Contents and effects not further specified. |
 
 ## Inventory Notes
 

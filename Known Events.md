@@ -96,6 +96,18 @@ The party reached Jenny's ambush. Shavi recognized Jenny. Jenny blamed Shavi and
 
 Session 04 ended in the middle of Jenny's ambush.
 
+## Session 05
+
+The party finished the fight against Jenny and two cultists, killing all three at a heavy cost in abilities. Concerned that the bodies might rise as undead, the party burned them without checking their pockets and took a long rest. After resting, they found six Bronze Spirit Coins but did not use them.
+
+Following the trail of destruction left by Vilastromoz, the party reached the cult's lair after the Child of Desolation had been summoned. Niles tried to destabilize the lair with Catalyst, but this made each gravity shift more damaging. The party killed Arthur Nightshade first, then the Child of Desolation. Brokk landed the killing blow and took the shard he sensed within the Child; it was absorbed into his body.
+
+The party found a key on Arthur and located his hidden laboratory. Steve found a carnivorous plant that had been fed monster parts. The party also found Arthur's research notes, ten monster parts, three hollow monster cores without a rank or set magic type, and five poison vials.
+
+Steve and Brokk said they intend to turn the cult's lair into a temple for Dominion and Light. This has not yet happened.
+
+The party found a teleportation device. They took another long rest before using it, during which each party member and their companions experienced a personal dream. Steve's dream happened last, and he woke with the Akashic word for "Light" branded on his chest. The party then teleported to Greenstone's botanical gardens, where the session ended.
+
 ## Unknowns
 
 If something is still a mystery to the party, keep it framed as a mystery here. Do not add the DM answer until it is revealed in play.
