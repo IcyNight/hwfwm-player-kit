@@ -106,7 +106,7 @@ The party found a key on Arthur and located his hidden laboratory. Steve found a
 
 Steve and Brokk said they intend to turn the cult's lair into a temple for Dominion and Light. This has not yet happened.
 
-The party found a teleportation device. They took another long rest before using it, during which each party member and their companions experienced a personal dream. Steve's dream happened last, and he woke with the Akashic words "Light Bringer" branded on his chest. The party then teleported to Greenstone's botanical gardens, where the session ended. The dreams are recorded in [Prophetic Dreams](Prophetic%20Dreams.md).
+The party found a teleportation device. They took another long rest before using it, during which each party member and their companions experienced a personal dream. Steve's dream happened last, and he woke with the Akashic words "Light Bringer" branded on his chest. The party then teleported to Greenstone's botanical gardens, where the session ended. The sequence is recorded in [Dreams](Dreams.md) under "Session 5 Dream."
 
 ## Unknowns
 

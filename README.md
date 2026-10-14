@@ -40,7 +40,7 @@ This folder should not include:
 6. `Known NPCs.md`
 7. `Known Organizations.md`
 8. `Known Events.md`
-9. `Prophetic Dreams.md`
+9. `Dreams.md`
 
 ## Canon Status
 

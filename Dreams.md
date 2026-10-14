@@ -1,8 +1,10 @@
-# Prophetic Dreams
+# Dreams
 
 During the party's first long rest after defeating Arthur Nightshade and the Child of Desolation, Niles, Brokk, Shavi, Neil, Thadwick, and Steve each experienced a dream. Steve's came last. The accounts below describe what each dreamer experienced; a character does not automatically know what someone else dreamed unless that person tells them.
 
-## Niles
+## Session 5 Dream
+
+### Niles
 
 Niles stands on a hilltop overlooking a small village. A figure floats between him and the village with its back turned.
 
@@ -14,7 +16,7 @@ The figure waves a hand. In the blink of an eye, the village implodes. Light fro
 
 Niles could not recognize the voice until the figure turns. He is looking at a version of himself without a moral code, wearing a cloak like a view into the night sky. The other Niles smiles and lunges for his throat. Niles wakes just before those fingers reach him.
 
-## Brokk Runehammer
+### Brokk Runehammer
 
 Brokk stands in a place before stone has learned its name. There is no sky, only the Astral stretching like an unfinished forge. Far away, vast hands shape neither weapon nor crown, but a law. Brokk understands that he is watching the Builder make a failsafe for creation. Shining patterns of peoples, bodies, souls, memories, and possibilities drift around the work. They are not alive. They are schematics.
 
@@ -26,7 +28,7 @@ The Astral goes silent. The failsafe activates. The Dwarven and Jarggasy schemat
 
 Brokk looks down. His markings glow. For a heartbeat, each rune seems a grave marker, a blueprint, and a promise. He hears one hammer strike in the dark and wakes with its echo in his bones.
 
-## Shavi
+### Shavi
 
 Shavi is back in the prison from his old world, but he wears his present clothes, armor, and gear. Two guards talk nearby. One says it was unfortunate for the Mercer family that Travelers killed both their children. The other points at Shavi.
 
@@ -38,7 +40,7 @@ The first guard looks at Shavi and says:
 
 They attack. Shavi fights back and kills them. The prison falls silent for a breath. Then the same guards appear again, with the same faces and accusations. He kills them again, but more duplicates fill the room. Each one he cuts down is replaced. As he feels his life slipping away, he wakes before the final blow.
 
-## Neil Davone
+### Neil Davone
 
 Neil sits alone in the Church of Healer. He thinks about the fight with the Child of Desolation, where he stood, what he chose, and whether he was enough when the party needed him. An elderly man sits beside him and asks why a young man wears such a sorrowful look.
 
@@ -46,13 +48,13 @@ Neil admits he doubts his ability to help his party when they need him most. The
 
 Peace settles over Neil. He looks toward a mural in the window and sees the same man in the colored glass, reaching toward the sick and dying. Neil wakes with a sense of purpose and a tear in his eye.
 
-## Thadwick Mercer
+### Thadwick Mercer
 
 Thadwick stands by Cassandra's grave and tells her about the friends he has made and the journey they have shared. His voice breaks as he says that two of those friends are Travelers and that he feels he has let her down. He bows his head in shame.
 
 He hears a plucked string. Looking up, he sees an ethereal string stretching from the grave into the sky. It vibrates in the rhythm of the secret knock he and Cassandra used as children. The grave, the string, and the familiar rhythm leave him with a growing sense that something about her death is not where it should be. He wakes confused, unable to explain it, but feeling that Cassandra's death was more complicated than he thought.
 
-## Steve
+### Steve
 
 Steve sits beside a long table in a library. A beautiful woman approaches with an open book. Her voice is gentle but powerful.
 
