@@ -1,34 +1,8 @@
 # Player Campaign Kit
 
-> This player kit is automatically generated from the DM's campaign source of truth. Do not edit the player-only repository directly; player-facing updates should be made in the main campaign repo.
+This reference contains the party's known rules, people, organizations, events, dreams, and shared inventory.
 
-This folder contains player-safe campaign information.
-
-It is meant for players in the campaign, not for the DM's private planning notes.
-
-The interactive player reference site is served by `index.html` when this kit is published through GitHub Pages.
-
-## Player-Safe Rule
-
-If the party does not know it, it should not go here.
-
-This folder may include:
-
-- Rules the players need to play their characters.
-- Public world information.
-- NPCs the party has met or can reasonably know about.
-- Organizations the party knows about.
-- Events the party experienced.
-- Shared party rewards, rank, and reputation.
-
-This folder should not include:
-
-- Hidden villain plans.
-- Future plot twists.
-- Secret NPC motives.
-- Unrevealed faction information.
-- DM-only encounter mechanics.
-- Stat blocks.
+The interactive reference site is served from `index.html`.
 
 ## Recommended Reading Order
 
@@ -42,6 +16,6 @@ This folder should not include:
 8. `Known Events.md`
 9. `Dreams.md`
 
-## Canon Status
+## At The Table
 
-This folder is player-facing reference material. If something here conflicts with what happened at the table, the table takes priority and this folder should be updated.
+What happened during play takes precedence over this reference if the two differ.

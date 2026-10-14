@@ -1,6 +1,6 @@
 # Dreams
 
-During the party's first long rest after defeating Arthur Nightshade and the Child of Desolation, Niles, Brokk, Shavi, Neil, Thadwick, and Steve each experienced a dream. Steve's came last. These accounts record player-safe images and words without interpreting their meaning; a character does not automatically know what someone else dreamed unless that person tells them.
+During the party's first long rest after defeating Arthur Nightshade and the Child of Desolation, Niles, Brokk, Shavi, Neil, Thadwick, and Steve each experienced a dream. Steve's came last. Each character knows their own dream; what they tell one another is their choice.
 
 ## Session 5 Dream
 

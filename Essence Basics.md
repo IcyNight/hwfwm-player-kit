@@ -4,7 +4,7 @@ Essences are supernatural powers that shape a person's body, abilities, instinct
 
 Most essence users combine three essences into a confluence.
 
-This file only includes essence information the players currently need or have discovered.
+Essence powers and confluences currently known to the party.
 
 ## Essence Points
 
@@ -221,7 +221,3 @@ A semi-reliable looting power. You are able to loot dead creatures of your rank 
 - Add the modifier to your roll.
 - The higher the total, the greater the chance of obtaining magical loot.
 - The Will of the creature is decided by the DM and adds a number to the player's 1d100 roll for loot.
-
-## Ask the DM
-
-Some essences, confluences, and higher-rank powers may exist in the world but are not listed here because the party has not learned enough about them yet.

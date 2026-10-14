@@ -221,17 +221,6 @@ After successfully using Shadows Greed on a dead creature of your rank or higher
 | 76-99 | Gain one Rare item worth up to 150 gp appropriate to the creature. |
 | 100+ | Gain one Monster Core of the same rank as the defeated creature and one Superior Uncommon item worth up to 60 gp, both appropriate to that creature. |
 
-##### Design Rules
-
-When determining loot, follow these rules:
-
-- Loot should always match the creature it came from.
-- Magical items should feel like a lingering manifestation of the creature's nature rather than generic treasure.
-- Monster cores are only obtained on a result of 100 or higher after applying the creature's Will Modifier.
-- Common, Uncommon, Superior Uncommon, and Rare rewards should be selected from creature-specific loot tables.
-- The same creature should never produce loot that feels unrelated to its abilities, physiology, or magical aspect.
-- This system is intended to blend D&D magic items with He Who Fights With Monsters magical materials and crafting components, allowing both styles of rewards depending on the creature.
-
 ## Companion Confluences
 
 | Character | Confluence | Essences |
@@ -279,4 +268,3 @@ As a reaction, reduce damage from an incoming projectile targeting Thadwick or a
 
 - The party is currently recognized as Low Bronze.
 - The team has not chosen an official name yet.
-- This file should track only player-safe party information.

@@ -1,8 +1,6 @@
 # Known Events
 
-This file summarizes events the players know about.
-
-It should be written from the party's perspective and avoid DM-only context.
+This timeline records the party's journey so far.
 
 ## Sessions 01-02
 
@@ -107,7 +105,3 @@ The party found a key on Arthur and located his hidden laboratory. Steve found a
 Steve and Brokk said they intend to turn the cult's lair into a temple for Dominion and Light. This has not yet happened.
 
 The party found a teleportation device. They took another long rest before using it, during which each party member and their companions experienced a personal dream. Steve's dream happened last, and he woke with the Akashic words "Light Bringer" branded on his chest. The party then teleported to Greenstone's botanical gardens, where the session ended. The sequence is recorded in [Dreams](Dreams.md) under "Session 5 Dream."
-
-## Unknowns
-
-If something is still a mystery to the party, keep it framed as a mystery here. Do not add the DM answer until it is revealed in play.

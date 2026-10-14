@@ -1,12 +1,12 @@
 # Known Organizations
 
-This file contains player-safe organization information.
+Organizations the party has encountered or learned about.
 
 ## Adventurers Association
 
 The Adventurers Association handles adventuring teams, ranks, quests, field tests, and Bronze promotion.
 
-Known team information is tracked in `Party Reference.md` and in the campaign's team files.
+See [Party Reference](Party%20Reference.md) for known team details.
 
 ## Magic Association
 
@@ -29,7 +29,3 @@ Known examples:
 - Church of Light
 
 Father Tobias Crowe of the Church of Light signed official papers placing Ron and Don under Church of Light protection.
-
-## Ask the DM Before Adding
-
-Do not add hidden faction information, secret fronts, unrevealed cult information, or private plans unless the party has discovered them in play.

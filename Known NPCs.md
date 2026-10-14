@@ -1,8 +1,6 @@
 # Known NPCs
 
-This file lists NPC information that is safe for players to know.
-
-If an NPC has secrets, hidden motives, unrevealed abilities, or future plot relevance, those details should not be added here until the party learns them.
+These are the people the party has met or learned about so far.
 
 Meeting an NPC does not mean the party knows that NPC's essences or confluence unless the DM explicitly says they learned them.
 
@@ -176,11 +174,3 @@ Jenny ambushed the party roughly thirty minutes from Thundercrest Spire.
 Shavi recognized her. Jenny blamed Shavi and the party for killing her husband and children.
 
 Jenny uses a Murloc King monster core, and each use visibly damages her body.
-
-## Ask the DM Before Adding
-
-- NPC secrets.
-- Hidden faction ties.
-- Unrevealed confluences.
-- Villain plans.
-- Future character arcs.

@@ -2,7 +2,7 @@
 
 Ranks describe how powerful an essence user is and how they are viewed by the wider world.
 
-This file only includes rank information the players currently need. Higher-rank mechanical details are intentionally omitted until the party learns them in play.
+Rank information currently known to the party.
 
 ## Rank Table
 

@@ -1,6 +1,6 @@
 # Party Inventory
 
-This file tracks the shared party inventory and expedition resources.
+Shared party inventory and expedition resources.
 
 Individual characters also retain the items they received when creating their characters. Those starting items are not itemized here yet.
 
@@ -132,5 +132,4 @@ After defeating Jenny and the cultists, the party burned their bodies without ch
 
 ## Inventory Notes
 
-- The current shared inventory is the authoritative active list at the top of this file.
-- Earlier supplies, currency, and loot are retained in acquisition history for context but are not treated as current inventory unless they also appear in the current summary.
+The current shared inventory is listed at the top. Acquisition history records earlier finds and purchases, including items the party no longer carries.
