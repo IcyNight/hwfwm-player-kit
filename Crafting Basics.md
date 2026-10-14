@@ -1,6 +1,6 @@
 # Crafting Basics
 
-This file explains the campaign's player-facing blacksmithing rules.
+Blacksmithing rules known to the party.
 
 ## Three-Step Blacksmithing System
 
@@ -313,7 +313,7 @@ The character makes a Smithing check.
 
 The character adds proficiency if they are proficient with Smith's Tools.
 
-The appropriate ability modifier should follow the campaign's normal Smithing or tool rules if already established.
+Use the ability modifier agreed with the DM for the Smithing check.
 
 ### Smithing DC
 
@@ -407,7 +407,7 @@ Natural 1 and natural 20 are special outcomes.
 
 ## Positive And Negative Effects
 
-Positive and negative effects should generally be related to the item's design, intended purpose, materials used, and the circumstances of construction.
+Positive and negative effects reflect the item's design, intended purpose, materials, and circumstances of construction.
 
 Possible positive effects could include:
 
@@ -431,9 +431,7 @@ Possible negative effects could include:
 - Minor activation cost.
 - Vulnerability to certain circumstances, materials, or damage.
 
-These examples are not exhaustive tables.
-
-Effects should fit the individual project.
+These examples are not an exhaustive list; the result depends on the individual project.
 
 ## Crafting Philosophy
 
