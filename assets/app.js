@@ -7,6 +7,7 @@ const documents = [
   { id: "npcs", title: "Known NPCs", note: "People met", path: "Known NPCs.md" },
   { id: "orgs", title: "Known Organizations", note: "Groups", path: "Known Organizations.md" },
   { id: "events", title: "Known Events", note: "Timeline", path: "Known Events.md" },
+  { id: "dreams", title: "Prophetic Dreams", note: "Session 05", path: "Prophetic Dreams.md" },
 ];
 
 const portraits = new Map([
