@@ -1,6 +1,6 @@
 # Dreams
 
-During the party's first long rest after defeating Arthur Nightshade and the Child of Desolation, Niles, Brokk, Shavi, Neil, Thadwick, and Steve each experienced a dream. Steve's came last. The accounts below describe what each dreamer experienced; a character does not automatically know what someone else dreamed unless that person tells them.
+During the party's first long rest after defeating Arthur Nightshade and the Child of Desolation, Niles, Brokk, Shavi, Neil, Thadwick, and Steve each experienced a dream. Steve's came last. These accounts record player-safe images and words without interpreting their meaning; a character does not automatically know what someone else dreamed unless that person tells them.
 
 ## Session 5 Dream
 
@@ -10,7 +10,7 @@ Niles stands on a hilltop overlooking a small village. A figure floats between h
 
 > "False Vacuum Decay."
 
-The figure waves a hand. In the blink of an eye, the village implodes. Light from Transcended Damage erupts where it stood, and the villagers' souls rise toward the sky. The figure makes the shape of a cage with its fingers. The souls scream as they compress into a sphere, which floats to the figure when it is done.
+The figure waves a hand. In the blink of an eye, the village implodes. A terrible light erupts where it stood, and the villagers' souls rise toward the sky. The figure makes the shape of a cage with its fingers. The souls scream as they compress into a sphere, which floats to the figure when it is done.
 
 > "Did you enjoy the show?"
 
@@ -18,15 +18,9 @@ Niles could not recognize the voice until the figure turns. He is looking at a v
 
 ### Brokk Runehammer
 
-Brokk stands in a place before stone has learned its name. There is no sky, only the Astral stretching like an unfinished forge. Far away, vast hands shape neither weapon nor crown, but a law. Brokk understands that he is watching the Builder make a failsafe for creation. Shining patterns of peoples, bodies, souls, memories, and possibilities drift around the work. They are not alive. They are schematics.
+Brokk stands beneath an unfinished Astral sky. Far away, vast hands work among countless shining patterns. The dream fractures into glimpses of stone halls and ringing hammers, then towering figures whose markings glow across their skin. Two figures clash. The image breaks before the consequences can be seen clearly.
 
-The dream fractures. Brokk sees Dwarves, with deep halls, ringing hammers, stubborn pride, and magnificent beards. He sees the towering Jarggasy, whose living magical markings glow across their skin from birth. For a moment the two peoples stand together. Then, in the Fight to Godhood, a Diamond-rank Dwarven champion falls to a Jarggasy champion. She begins becoming Knowledge, but her ascension is not complete. Grief, fury, victory, and unfinished godhood twist together. The Dwarves vanish, erased by the one who is still becoming a goddess.
-
-The dream fractures again. Knowledge is complete, and Brokk feels the horror of understanding too late. She moves behind the veils of history, guiding events and their consequences. The Jarggasy vanish next. It does not feel like justice; it feels like guilt given divine reach.
-
-The Astral goes silent. The failsafe activates. The Dwarven and Jarggasy schematics ignite, not as resurrection, but as creation. Across Pallimustus, people from unrelated peoples become something new. Runes bloom on skin; old hands remember tools they never held; stone, craft, height, and magic answer the same name: Runic.
-
-Brokk looks down. His markings glow. For a heartbeat, each rune seems a grave marker, a blueprint, and a promise. He hears one hammer strike in the dark and wakes with its echo in his bones.
+Silence follows. Lights flare among the patterns, and runes bloom across unfamiliar bodies. Brokk looks down at his own markings as they glow. A hammer strikes once in the dark, and he wakes with its echo in his bones.
 
 ### Shavi
 
