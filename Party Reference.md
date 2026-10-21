@@ -6,6 +6,8 @@ Official name: Not decided yet.
 
 Current Rank: Low Bronze.
 
+Association status: One-star adventuring party, eligible for party-specific commissions after completing the Thundercrest Spire quest in Session 06. Neil and Thadwick had not rejoined the group by the end of that session.
+
 ## Members
 
 - Niles

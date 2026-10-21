@@ -162,6 +162,14 @@ Vilastromoz recognized Staash as a True Dragon and revealed Staash's full dragon
 
 Vilastromoz told Shavi that the blind stranger who gave him the drugs was the Magistrate.
 
+## Albert
+
+Albert works at the Adventurers Association front desk. He escorted the party to a waiting room and contacted Esbeth when they brought Arthur's body in Session 06.
+
+## Carlos Quilido
+
+Carlos is a priest at Greenstone's Church of Healer. He helped Steve after Steve's first prophetic dream and marking by Light and Knowledge. In Session 06 he recognized Steve's "Light Bringer" inscription as Akashic, the language of the gods, but did not know its purpose.
+
 ## Jenny
 
 | Field | Known Information |

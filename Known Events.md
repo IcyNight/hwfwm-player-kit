@@ -105,3 +105,19 @@ The party found a key on Arthur and located his hidden laboratory. Steve found a
 Steve and Brokk said they intend to turn the cult's lair into a temple for Dominion and Light. This has not yet happened.
 
 The party found a teleportation device. They took another long rest before using it, during which each party member and their companions experienced a personal dream. Steve's dream happened last, and he woke with the Akashic words "Light Bringer" branded on his chest. The party then teleported to Greenstone's botanical gardens, where the session ended. The sequence is recorded in [Dreams](Dreams.md) under "Session 5 Dream."
+
+## Session 06
+
+The party arrived in Greenstone's Botanical Gardens on Memorial Day after the Monster Wave. At the Adventurers Association they turned in Arthur's body and reported their journey. Esbeth raised a cup in memory of the dead, awarded 500 gp to each player character and the promised Silver-rank monster core to Brokk, and promoted the group to a one-star adventuring party.
+
+Dominion personally appeared in the waiting room after Brokk's fervent response to a discussion of adventurers' rights. Several people were overwhelmed by his presence; Niles and Steve remained conscious. Dominion noticed Steve's "Light Bringer" inscription and shook Niles's hand.
+
+Niles and Steve questioned Arthur's corpse at the Church of Death. It answered "An old shard" about the summoning, "Evolution" about the experiments, "The cult's lair" about its information source, "There are no cult members left" about surviving cult activity, and "Torture" about its experience with its god. These were Arthur's statements, not independently verified facts.
+
+At the Church of Healer, priest Carlos Quilido told Steve that "Light Bringer" is written in Akashic, the language of the gods, and that every Akashic word has power; he did not know the inscription's purpose. At the Church of Knowledge, Knowledge briefly spoke through its head priest, urgently telling Steve not to delay and calmly asking Niles to help him. They also visited the empty Church of Hero, whose illustrated walls describe heroic moments.
+
+At the Magic Association, Clive Standish told Niles and Steve that his Magic, Knowledge, and Astral essences form the Oras confluence. Niles told Clive he is a Traveler. With Clive's help, the party opened the locked box. Minaga emerged and, by agreement, now resides in the Bag of Holding. His claim that he can protect them from the Bag Man remains unverified. Niles perceived a Counter Magic-related influence involving Clive's confluence, but its nature remains unclear.
+
+Brokk found Old Man Coal's Silver-rank weapon blueprints and forged four Bronze armors, which he distributed; exact recipients were not recorded. The party discussed Divine Essences as gifts from gods and why the subject is taboo. On the way to the exhibition, a child admired the party's armor, so Brokk forged a Masterpiece armor for the child.
+
+The Team Nebula versus Team Royal exhibition concluded. Steve collected 1,050 gp in reported winnings. The session ended immediately afterward. Neil and Thadwick had not yet returned, and Shavi had no active role in the session.

@@ -6,6 +6,8 @@ Individual characters also retain the items they received when creating their ch
 
 ## Current Inventory Summary
 
+The Bag of Holding now houses Minaga by agreement; the purchased box has been opened. Brokk completed and distributed four Bronze armors, with recipients not recorded. Each player character received 500 gp personally for the quest, Steve collected 1,050 gp in reported exhibition winnings, and Brokk personally received the promised Silver-rank Scaldclaw Crab core. These personal rewards are **not** included in shared currency. Brokk also made Masterpiece armor for a child, who kept it.
+
 ### Starting Gear
 
 Individual characters have the items they received when creating their characters.
@@ -14,7 +16,7 @@ Individual characters have the items they received when creating their character
 
 | Item | Quantity | Notes |
 |---|---:|---|
-| Bag of Holding | 1 | Shared party storage. |
+| Bag of Holding | 1 | Shared party storage; Minaga resides inside by agreement. |
 
 ### Journey Supplies
 
@@ -45,7 +47,7 @@ Individual characters have the items they received when creating their character
 | Iron Rank Monster Core | 1 | 135 gp |
 | Iron Rank Monster Core | 1 | 179 gp |
 | Broken Teleportation Compass | 1 | From the trade with Balthazar. A damaged magical compass that occasionally points toward unknown locations. |
-| Locked Metal Box | 1 | Purchased from Balthazar. A beautifully crafted locked metal box that may be cursed. Contents unknown. |
+| Locked Metal Box | 1 | Purchased from Balthazar. A beautifully crafted locked metal box that may be cursed. Opened with Clive's help; Minaga emerged. |
 | Green Crystal | 1 | Formerly the White Crystal Shard from the trade with Balthazar. Vilastromoz infused it with poison, turning it green. When Brokk creates an item using this crystal, the item's damage type will be purely poison. |
 | Bronze Spirit Coin | 6 | Found after the Jenny fight and first long rest in Session 05; unused. |
 | Arthur's research notes | 1 collection | Found in Arthur's hidden laboratory. |

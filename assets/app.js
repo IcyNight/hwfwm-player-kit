@@ -2,6 +2,7 @@ const documents = [
   { id: "rank", title: "Rank Basics", note: "Known ranks", path: "Rank Basics.md" },
   { id: "essence", title: "Essence Basics", note: "Known powers", path: "Essence Basics.md" },
   { id: "crafting", title: "Crafting Basics", note: "Making items", path: "Crafting Basics.md" },
+  { id: "drinking", title: "Greenstone Drinking Game", note: "Local tradition", path: "Greenstone Drinking Game.md" },
   { id: "party", title: "Party Reference", note: "Team details", path: "Party Reference.md" },
   { id: "inventory", title: "Party Inventory", note: "Shared loot", path: "Party Inventory.md" },
   { id: "npcs", title: "Known NPCs", note: "People met", path: "Known NPCs.md" },

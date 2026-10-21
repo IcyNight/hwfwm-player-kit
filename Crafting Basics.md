@@ -1,5 +1,17 @@
 # Crafting Basics
 
+## Equipment and Monster Cores
+
+Equipment **quality** (Junk, Low, Medium, High, Exceptional) describes construction and maintenance, not rank or magical strength. Junk falls apart after one use; Low after several uses; Medium lasts indefinitely with proper maintenance; High needs no maintenance for its first few years; Exceptional never needs maintenance.
+
+Monster-core **rarity** describes the source monster: Normal/Common is locally common, Uncommon is usually an evolved common form, Rare appears in high-magic zones or Monster Waves, Unique is newly discovered, and Legendary is a Monster Wave apex. A core's rarity does not automatically determine the finished equipment's rarity.
+
+Equipment **rarity** describes its own magic: Normal/Common has no innate effect; Uncommon has a small effect; Rare has a limited-use effect; Unique has an unlimited-use effect; Legendary has a substantial limited-use effect and an additional unique effect. These are separate from quality and rank.
+
+Equipment and cores follow **Unranked < Iron < Bronze < Silver < Gold < Diamond**. Ranked equipment can repeatedly channel essence abilities up to its own rank; channeling a higher-rank ability breaks it. Unranked equipment breaks after one essence-channeling use. Rarity does not raise this limit.
+
+At the same rank, greater equipment rarity generally means greater magical power. Across adjacent ranks, Common, Uncommon, and Rare lower-rank equipment are weaker than Common equipment of the next rank; Unique lower-rank equipment is roughly comparable to Common-Uncommon next-rank equipment, and Legendary lower-rank equipment to Uncommon-Rare next-rank equipment. These are guidelines, not automatic stat changes. An item always keeps its actual rank and channeling limit.
+
 Blacksmithing rules known to the party.
 
 ## Three-Step Blacksmithing System
