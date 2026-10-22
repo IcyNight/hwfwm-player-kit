@@ -182,3 +182,9 @@ Jenny ambushed the party roughly thirty minutes from Thundercrest Spire.
 Shavi recognized her. Jenny blamed Shavi and the party for killing her husband and children.
 
 Jenny uses a Murloc King monster core, and each use visibly damages her body.
+
+## Minaga
+
+The party released Minaga from the locked metal box in Session 06. He told them he had been trapped for exactly 1,347 years.
+
+The party agreed to let him travel in their Bag of Holding. His nature and the circumstances of his confinement remain unknown to them.
