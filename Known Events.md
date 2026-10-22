@@ -2,6 +2,14 @@
 
 This timeline records the party's journey so far.
 
+## Steve's Childhood Prophecy
+
+As a child, Steve received a dream from Knowledge. Dull-colored creatures flew, swam, dug, and ran through the environment, causing widespread destruction. They acted together, as though guided by a hive mind. Steve also saw something he could not identify. He believes the dream warned of a coordinated threat that may someday attack the world; he suspects a super-hive mind, but that remains his theory.
+
+This is Steve's vision and interpretation; other party members know only what he has shared with them.
+
+During Session 06, after discussing the dream with Niles, Steve recognized the unidentified part of the vision as a **magical nuke**. How it works remains unknown.
+
 ## Sessions 01-02
 
 Steve and Brokk Runehammer went to the Adventurers Association and overheard Esbeth Shivon and Clive Standish discussing assignments for the monster wave.
