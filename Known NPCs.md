@@ -25,6 +25,8 @@ The party has seen Esbeth Shivon.
 
 During Session 03, Esbeth interviewed the party individually using a Circle of Truth procedure. She was professional, perceptive, and careful about consent.
 
+During the Session 06 quest report, Esbeth told Niles, Steve, and Brokk that, early in her adventuring career, a blind man gave her a joint. After smoking it, she saw Oras from afar. Shavi was absent and did not hear her story firsthand.
+
 ## Bi Di ("Big D")
 
 | Field | Known Information |

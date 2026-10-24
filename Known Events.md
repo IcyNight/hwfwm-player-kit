@@ -118,6 +118,8 @@ The party found a teleportation device. They took another long rest before using
 
 The party arrived in Greenstone's Botanical Gardens on Memorial Day after the Monster Wave. At the Adventurers Association they turned in Arthur's body and reported their journey. Esbeth raised a cup in memory of the dead, awarded 500 gp to each player character and the promised Silver-rank monster core to Brokk, and promoted the group to a one-star adventuring party.
 
+During the report, the party discussed Great Astral Beings and Shavi's earlier drug experience. Esbeth recalled that a blind man had given her a joint early in her adventuring career; after smoking it, she saw Oras from afar. Niles, Steve, and Brokk heard this account. Shavi was absent and did not hear it firsthand.
+
 Dominion personally appeared in the waiting room after Brokk's fervent response to a discussion of adventurers' rights. Several people were overwhelmed by his presence; Niles and Steve remained conscious. Dominion noticed Steve's "Light Bringer" inscription and shook Niles's hand.
 
 Niles and Steve questioned Arthur's corpse at the Church of Death. It answered "An old shard" about the summoning, "Evolution" about the experiments, "The cult's lair" about its information source, "There are no cult members left" about surviving cult activity, and "Torture" about its experience with its god. These were Arthur's statements, not independently verified facts.
